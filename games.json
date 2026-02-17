@@ -20,15 +20,16 @@
     "image": "images/7wondersduel.jpg"
   },
   {
-    "name": "Ticket to Ride",
+    "name": "7 Wonders: Architects",
     "playersMin": 2,
-    "playersMax": 5,
-    "duration": 45,
+    "playersMax": 7,
+    "duration": 30,
     "difficulty": "Easy",
-    "category": "Board game",
+    "category": "cards",
     "rating": 4,
-    "image": "images/ticket_to_ride.jpg"
+    "image": "images/7wondersarchitects.jpg"
   }
 ]
+
 
 
