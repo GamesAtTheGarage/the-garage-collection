@@ -10,14 +10,14 @@
     "image": "images/7wondersdice.jpg"
   },
   {
-    "name": "Catan",
+    "name": "7 Wonders Duel",
     "playersMin": 3,
     "playersMax": 4,
     "duration": 60,
     "difficulty": "Medium",
     "category": "Strategy",
     "rating": 5,
-    "image": "images/catan.jpg"
+    "image": "images/7wondersduel.jpg"
   },
   {
     "name": "Ticket to Ride",
@@ -30,3 +30,4 @@
     "image": "images/ticket_to_ride.jpg"
   }
 ]
+
