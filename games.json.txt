@@ -9,15 +9,27 @@
     "rating": 4,
     "image": "images/7wonders.jpg"
   },
-{
-    "name": "Magical Athelete",
-    "playersMin": 2,
-    "playersMax": 6,
-    "duration": 30,
-    "difficulty": "easy",
-    "category": "Party Game",
+  {
+    "name": "Catan",
+    "playersMin": 3,
+    "playersMax": 4,
+    "duration": 60,
+    "difficulty": "Medium",
+    "category": "Strategy",
     "rating": 5,
     "image": "images/catan.jpg"
+  },
+  {
+    "name": "Ticket to Ride",
+    "playersMin": 2,
+    "playersMax": 5,
+    "duration": 45,
+    "difficulty": "Easy",
+    "category": "Board game",
+    "rating": 4,
+    "image": "images/ticket_to_ride.jpg"
   }
 ]
+
+
 
