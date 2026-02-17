@@ -38,8 +38,19 @@
     "category": "expansion",
     "rating": 4,
     "image": "images/7wondersarchitectsmedals.jpg"
+   },
+   {
+    "name": "Artisjokken",
+    "playersMin": 2,
+    "playersMax": 4,
+    "duration": 20,
+    "difficulty": "Easy",
+    "category": "cards",
+    "rating": 4,
+    "image": "images/artisjokken.jpg"
    } 
 ]
+
 
 
 
