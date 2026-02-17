@@ -1,32 +1,32 @@
 [
   {
+    "id": 1,
     "name": "7 Wonders Dice",
-    "playersMin": 2,
-    "playersMax": 7,
-    "duration": 30,
-    "difficulty": "Medium",
-    "category": "Card drafting",
+    "min_players": 2,
+    "max_players": 7,
+    "playtime": 30,
     "rating": 4,
+    "categories": ["Card drafting"],
     "image": "images/7wondersdice.jpg"
   },
   {
+    "id": 2,
     "name": "Catan",
-    "playersMin": 3,
-    "playersMax": 4,
-    "duration": 60,
-    "difficulty": "Medium",
-    "category": "Strategy",
+    "min_players": 3,
+    "max_players": 4,
+    "playtime": 60,
     "rating": 5,
+    "categories": ["Strategy"],
     "image": "images/catan.jpg"
   },
   {
+    "id": 3,
     "name": "Ticket to Ride",
-    "playersMin": 2,
-    "playersMax": 5,
-    "duration": 45,
-    "difficulty": "Easy",
-    "category": "Board game",
+    "min_players": 2,
+    "max_players": 5,
+    "playtime": 45,
     "rating": 4,
+    "categories": ["Board game"],
     "image": "images/ticket_to_ride.jpg"
   }
 ]
