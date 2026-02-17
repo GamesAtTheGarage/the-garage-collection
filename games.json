@@ -48,8 +48,19 @@
     "category": "cards",
     "rating": 4,
     "image": "images/artisjokken.jpg"
+   },
+   {
+    "name": "Agricola",
+    "playersMin": 1,
+    "playersMax": 5,
+    "duration": 120,
+    "difficulty": "medium",
+    "category": "worker placement",
+    "rating": 4,
+    "image": "images/agricola.jpg"
    } 
 ]
+
 
 
 
