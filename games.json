@@ -238,8 +238,19 @@
     "category": "Worker placement",
     "rating": 5,
     "image": "images/mayflower.jpg"
+   },
+   {
+    "name": "Cartagena",
+    "playersMin": 2,
+    "playersMax": 5,
+    "duration": 35,
+    "difficulty": "easy",
+    "category": "Cards",
+    "rating": 5,
+    "image": "images/cartagena.jpg"
    }
 ]
+
 
 
 
