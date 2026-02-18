@@ -308,8 +308,29 @@
     "category": "Dice",
     "rating": 4,
     "image": "images/chaosarena.jpg"
+   },
+   {
+    "name": "Citadels ( Machiavelli)",
+    "playersMin": 2,
+    "playersMax": 8,
+    "duration": 45,
+    "difficulty": "easy",
+    "category": "Cards",
+    "rating": 4,
+    "image": "images/machiavelli.jpg"
+   },
+   {
+    "name": "Citadels: The Dark City",
+    "playersMin": 2,
+    "playersMax": 8,
+    "duration": 45,
+    "difficulty": "medium",
+    "category": "Expansion",
+    "rating": 4,
+    "image": "images/machiavellidonkerelanden.jpg"
    }
 ]
+
 
 
 
