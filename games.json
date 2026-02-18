@@ -208,8 +208,19 @@
     "category": "Dice",
     "rating": 5,
     "image": "images/cantstop.jpg"
+   },
+   {
+    "name": "Carcassonne",
+    "playersMin": 2,
+    "playersMax": 5,
+    "duration": 30,
+    "difficulty": "easy",
+    "category": "Worker placement",
+    "rating": 5,
+    "image": "images/carcassonne.jpg"
    }
 ]
+
 
 
 
