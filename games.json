@@ -5,7 +5,7 @@
     "playersMax": 7,
     "duration": 30,
     "difficulty": "Medium",
-    "category": "Card drafting",
+    "category": "Roll 'n write",
     "rating": 4,
     "image": "images/7wondersdice.jpg"
   },
@@ -25,7 +25,7 @@
     "playersMax": 7,
     "duration": 30,
     "difficulty": "Easy",
-    "category": "cards",
+    "category": "Cards",
     "rating": 4,
     "image": "images/7wondersarchitects.jpg"
   },
@@ -35,7 +35,7 @@
     "playersMax": 7,
     "duration": 30,
     "difficulty": "Easy",
-    "category": "expansion",
+    "category": "Expansion",
     "rating": 4,
     "image": "images/7wondersarchitectsmedals.jpg"
    },
@@ -45,7 +45,7 @@
     "playersMax": 4,
     "duration": 20,
     "difficulty": "Easy",
-    "category": "cards",
+    "category": "Cards",
     "rating": 4,
     "image": "images/artisjokken.jpg"
    },
@@ -55,7 +55,7 @@
     "playersMax": 5,
     "duration": 120,
     "difficulty": "medium",
-    "category": "worker placement",
+    "category": "Worker placement",
     "rating": 4,
     "image": "images/agricola.jpg"
    },
@@ -65,7 +65,7 @@
     "playersMax": 3,
     "duration": 20,
     "difficulty": "easy",
-    "category": "cards",
+    "category": "Cards",
     "rating": 4,
     "image": "images/althing.jpg"
    },
@@ -75,7 +75,7 @@
     "playersMax": 4,
     "duration": 180,
     "difficulty": "challenging",
-    "category": "startegy",
+    "category": "Strategy",
     "rating": 4,
     "image": "images/axiseurope.jpg"
    },
@@ -85,7 +85,7 @@
     "playersMax": 4,
     "duration": 60,
     "difficulty": "medium",
-    "category": "startegy",
+    "category": "Strategy",
     "rating": 4,
     "image": "images/azulqueensgarden.jpg"
    },
@@ -95,11 +95,12 @@
     "playersMax": 4,
     "duration": 180,
     "difficulty": "medium",
-    "category": "worker placement",
+    "category": "Worker placement",
     "rating": 4,
     "image": "images/bantamwest.jpg"
    }
 ]
+
 
 
 
