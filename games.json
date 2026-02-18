@@ -268,8 +268,19 @@
     "category": "Tile placement",
     "rating": 5,
     "image": "images/castlesofburgundy.jpg"
+   },
+   {
+    "name": "Catan card game",
+    "playersMin": 2,
+    "playersMax": 2,
+    "duration": 60,
+    "difficulty": "medium",
+    "category": "Dice",
+    "rating": 4,
+    "image": "images/catancardgame.jpg"
    }
 ]
+
 
 
 
