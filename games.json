@@ -138,8 +138,19 @@
     "category": "Expansion",
     "rating": 5,
     "image": "images/laislaboonita.jpg"
+   },
+   {
+    "name": "Bravo / Keer op Keer 2",
+    "playersMin": 1,
+    "playersMax": 6,
+    "duration": 40,
+    "difficulty": "easy",
+    "category": "Roll 'n write",
+    "rating": 3,
+    "image": "images/keeropkeer2bravo.jpg"
    }
 ]
+
 
 
 
