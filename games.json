@@ -248,8 +248,19 @@
     "category": "Cards",
     "rating": 5,
     "image": "images/cartagena.jpg"
+   },
+   {
+    "name": "Castle Builder (Kasteel in de steigers)",
+    "playersMin": 2,
+    "playersMax": 4,
+    "duration": 45,
+    "difficulty": "easy",
+    "category": "Strategy",
+    "rating": 4,
+    "image": "images/castlebuilder.jpg"
    }
 ]
+
 
 
 
