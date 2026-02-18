@@ -258,8 +258,19 @@
     "category": "Strategy",
     "rating": 4,
     "image": "images/castlebuilder.jpg"
+   },
+   {
+    "name": "Castles of Burgundy Special Edition",
+    "playersMin": 1,
+    "playersMax": 4,
+    "duration": 90,
+    "difficulty": "medium",
+    "category": "Tile placement",
+    "rating": 5,
+    "image": "images/castlesofburgundy.jpg"
    }
 ]
+
 
 
 
