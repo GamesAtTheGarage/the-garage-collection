@@ -120,6 +120,16 @@
     "image": "images/blastingbilly.jpg"
    },
    {
+    "name": "Boop the halls!",
+    "playersMin": 2,
+    "playersMax": 2,
+    "duration": 20,
+    "difficulty": "easy",
+    "category": "Strategy",
+    "rating": 3,
+    "image": "images/boobthehalls.jpg"
+   },
+   {
     "name": "Boonanza",
     "playersMin": 2,
     "playersMax": 7,
@@ -230,6 +240,7 @@
     "image": "images/mayflower.jpg"
    }
 ]
+
 
 
 
