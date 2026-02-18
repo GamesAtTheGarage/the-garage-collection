@@ -118,8 +118,29 @@
     "category": "Cards",
     "rating": 5,
     "image": "images/blastingbilly.jpg"
+   },
+   {
+    "name": "Boonanza",
+    "playersMin": 2,
+    "playersMax": 7,
+    "duration": 45,
+    "difficulty": "easy",
+    "category": "Cards",
+    "rating": 5,
+    "image": "images/boonanza.jpg"
+   },
+   {
+    "name": "La Isla Boonita",
+    "playersMin": 2,
+    "playersMax": 7,
+    "duration": 75,
+    "difficulty": "easy",
+    "category": "Expansion",
+    "rating": 5,
+    "image": "images/laislaboonita.jpg"
    }
 ]
+
 
 
 
