@@ -278,8 +278,19 @@
     "category": "Dice",
     "rating": 4,
     "image": "images/catancardgame.jpg"
+   },
+   {
+    "name": "Catan card game: Barbaren en handelsheren",
+    "playersMin": 2,
+    "playersMax": 2,
+    "duration": 60,
+    "difficulty": "medium",
+    "category": "Expansion",
+    "rating": 4,
+    "image": "images/catancardgamebarbaren.jpg"
    }
 ]
+
 
 
 
