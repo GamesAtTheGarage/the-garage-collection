@@ -178,8 +178,29 @@
     "category": "Cards",
     "rating": 4,
     "image": "images/cadaver.jpg"
+   },
+   {
+    "name": "Camel Cup",
+    "playersMin": 2,
+    "playersMax": 8,
+    "duration": 45,
+    "difficulty": "easy",
+    "category": "Party game",
+    "rating": 5,
+    "image": "images/camelcup.jpg"
+   },
+   {
+    "name": "Camel Cup Supercup",
+    "playersMin": 2,
+    "playersMax": 10,
+    "duration": 45,
+    "difficulty": "easy",
+    "category": "Party game",
+    "rating": 5,
+    "image": "images/camelcupsupercup.jpg"
    }
 ]
+
 
 
 
