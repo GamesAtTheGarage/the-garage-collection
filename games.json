@@ -68,8 +68,19 @@
     "category": "cards",
     "rating": 4,
     "image": "images/althing.jpg"
+   },
+   {
+    "name": "Axis & Alies: Europe",
+    "playersMin": 2,
+    "playersMax": 4,
+    "duration": 180,
+    "difficulty": "challenging",
+    "category": "startegy",
+    "rating": 4,
+    "image": "images/axiseurope.jpg"
    }
 ]
+
 
 
 
