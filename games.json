@@ -88,8 +88,19 @@
     "category": "startegy",
     "rating": 4,
     "image": "images/azulqueensgarden.jpg"
+   },
+   {
+    "name": "Bantam West 1st edition",
+    "playersMin": 2,
+    "playersMax": 4,
+    "duration": 180,
+    "difficulty": "medium",
+    "category": "worker placement",
+    "rating": 4,
+    "image": "images/bantamwest.jpg"
    }
 ]
+
 
 
 
