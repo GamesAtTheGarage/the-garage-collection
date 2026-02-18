@@ -288,8 +288,19 @@
     "category": "Expansion",
     "rating": 4,
     "image": "images/catancardgamebarbaren.jpg"
+   },
+   {
+    "name": "Cats vs Cucumbers",
+    "playersMin": 2,
+    "playersMax": 5,
+    "duration": 30,
+    "difficulty": "easy",
+    "category": "Dice",
+    "rating": 4,
+    "image": "images/catsvscucumbers.jpg"
    }
 ]
+
 
 
 
