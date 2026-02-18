@@ -98,8 +98,19 @@
     "category": "Worker placement",
     "rating": 4,
     "image": "images/bantamwest.jpg"
+   },
+  {
+    "name": "Big Sur",
+    "playersMin": 2,
+    "playersMax": 4,
+    "duration": 30,
+    "difficulty": "medium",
+    "category": "Cards",
+    "rating": 5,
+    "image": "images/bigsur.jpg"
    }
 ]
+
 
 
 
