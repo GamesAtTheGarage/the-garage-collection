@@ -148,8 +148,19 @@
     "category": "Roll 'n write",
     "rating": 3,
     "image": "images/keeropkeer2bravo.jpg"
+   },
+   {
+    "name": "Brew Crafters",
+    "playersMin": 2,
+    "playersMax": 5,
+    "duration": 90,
+    "difficulty": "medium",
+    "category": "Worker placement",
+    "rating": 5,
+    "image": "images/brewcrafters.jpg"
    }
 ]
+
 
 
 
