@@ -108,8 +108,19 @@
     "category": "Cards",
     "rating": 5,
     "image": "images/bigsur.jpg"
+   },
+   {
+    "name": "Blasting Billy",
+    "playersMin": 2,
+    "playersMax": 5,
+    "duration": 20,
+    "difficulty": "easy",
+    "category": "Cards",
+    "rating": 5,
+    "image": "images/blastingbilly.jpg"
    }
 ]
+
 
 
 
