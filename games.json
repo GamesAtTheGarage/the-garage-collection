@@ -218,8 +218,19 @@
     "category": "Worker placement",
     "rating": 5,
     "image": "images/carcassonne.jpg"
+   },
+   {
+    "name": "Carcassonne: Mayflower",
+    "playersMin": 2,
+    "playersMax": 5,
+    "duration": 45,
+    "difficulty": "easy",
+    "category": "Worker placement",
+    "rating": 5,
+    "image": "images/mayflower.jpg"
    }
 ]
+
 
 
 
