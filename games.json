@@ -78,8 +78,19 @@
     "category": "startegy",
     "rating": 4,
     "image": "images/axiseurope.jpg"
+   },
+   {
+    "name": "Azul: Queens Garden",
+    "playersMin": 2,
+    "playersMax": 4,
+    "duration": 60,
+    "difficulty": "medium",
+    "category": "startegy",
+    "rating": 4,
+    "image": "images/azulqueensgarden.jpg"
    }
 ]
+
 
 
 
