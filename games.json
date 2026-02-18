@@ -195,11 +195,22 @@
     "playersMax": 10,
     "duration": 45,
     "difficulty": "easy",
-    "category": "Party game",
+    "category": "Expansion",
     "rating": 5,
     "image": "images/camelcupsupercup.jpg"
+   },
+   {
+    "name": "Can't Stop",
+    "playersMin": 2,
+    "playersMax": 4,
+    "duration": 20,
+    "difficulty": "easy",
+    "category": "Dice",
+    "rating": 5,
+    "image": "images/cantstop.jpg"
    }
 ]
+
 
 
 
