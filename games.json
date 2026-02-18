@@ -58,8 +58,19 @@
     "category": "worker placement",
     "rating": 4,
     "image": "images/agricola.jpg"
-   } 
+   },
+   {
+    "name": "Althing",
+    "playersMin": 1,
+    "playersMax": 3,
+    "duration": 20,
+    "difficulty": "easy",
+    "category": "cards",
+    "rating": 4,
+    "image": "images/althing.jpg"
+   }
 ]
+
 
 
 
