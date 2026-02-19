@@ -368,8 +368,19 @@
     "category": "Co-op",
     "rating": 4,
     "image": "images/dawnofthezeds.jpg"
+   },
+   {
+    "name": "Dead of winter: The Long Night",
+    "playersMin": 2,
+    "playersMax": 5,
+    "duration": 90,
+    "difficulty": "medium",
+    "category": "Co-op",
+    "rating": 4,
+    "image": "images/deadofwinterlastnight.jpg"
    }
 ]
+
 
 
 
