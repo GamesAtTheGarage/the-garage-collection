@@ -350,9 +350,9 @@
     "image": "images/kakkerlakkenpoker.jpg"
    },
    {
-    "name": "Coffee RUsh",
+    "name": "Coffee Rush",
     "playersMin": 2,
-    "playersMax": ,
+    "playersMax": 4,
     "duration": 45,
     "difficulty": "easy",
     "category": "Worker placement",
@@ -360,6 +360,7 @@
     "image": "images/coffeerush.jpg"
    }
 ]
+
 
 
 
