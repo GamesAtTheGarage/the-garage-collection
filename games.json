@@ -388,8 +388,19 @@
     "category": "Co-op",
     "rating": 4,
     "image": "images/deadpanic.jpg"
+   },
+   {
+    "name": "Echoes of Emperors",
+    "playersMin": 2,
+    "playersMax": 4,
+    "duration": 60,
+    "difficulty": "medium",
+    "category": "Strategy",
+    "rating": 4,
+    "image": "images/echoesofemperors.jpg"
    }
 ]
+
 
 
 
