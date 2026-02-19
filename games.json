@@ -398,8 +398,19 @@
     "category": "Strategy",
     "rating": 4,
     "image": "images/echoesofemperors.jpg"
+   },
+   {
+    "name": "Echoes of Emperors: Warmaps",
+    "playersMin": 2,
+    "playersMax": 4,
+    "duration": 60,
+    "difficulty": "medium",
+    "category": "Expansion",
+    "rating": 4,
+    "image": "images/eoewarmaps.jpg"
    }
 ]
+
 
 
 
