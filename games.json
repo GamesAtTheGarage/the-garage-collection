@@ -338,8 +338,19 @@
     "category": "Worker placement",
     "rating": 4,
     "image": "images/cities.jpg"
+   },
+   {
+    "name": "Cockroach Poker (Kakkerlakken Poker)",
+    "playersMin": 2,
+    "playersMax": 6,
+    "duration": 20,
+    "difficulty": "measy",
+    "category": "Cards",
+    "rating": 4,
+    "image": "images/kakkerlakkenpoker.jpg"
    }
 ]
+
 
 
 
