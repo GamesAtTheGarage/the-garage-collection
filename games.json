@@ -358,8 +358,19 @@
     "category": "Worker placement",
     "rating": 4,
     "image": "images/coffeerush.jpg"
+   },
+   {
+    "name": "Dawn of the Zeds "3rd edition",
+    "playersMin": 1,
+    "playersMax": 5,
+    "duration": 90,
+    "difficulty": "medium",
+    "category": "Co-op",
+    "rating": 4,
+    "image": "images/dawnofthezeds.jpg"
    }
 ]
+
 
 
 
