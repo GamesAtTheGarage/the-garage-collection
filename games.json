@@ -344,12 +344,23 @@
     "playersMin": 2,
     "playersMax": 6,
     "duration": 20,
-    "difficulty": "measy",
+    "difficulty": "easy",
     "category": "Cards",
     "rating": 4,
     "image": "images/kakkerlakkenpoker.jpg"
+   },
+   {
+    "name": "Coffee RUsh",
+    "playersMin": 2,
+    "playersMax": ,
+    "duration": 45,
+    "difficulty": "easy",
+    "category": "Worker placement",
+    "rating": 4,
+    "image": "images/coffeerush.jpg"
    }
 ]
+
 
 
 
