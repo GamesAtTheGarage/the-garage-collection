@@ -360,7 +360,7 @@
     "image": "images/coffeerush.jpg"
    },
    {
-    "name": "Dawn of the Zeds "3rd edition",
+    "name": "Dawn of the Zeds 3rd edition",
     "playersMin": 1,
     "playersMax": 5,
     "duration": 90,
@@ -370,6 +370,7 @@
     "image": "images/dawnofthezeds.jpg"
    }
 ]
+
 
 
 
