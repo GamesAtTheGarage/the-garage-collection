@@ -378,8 +378,19 @@
     "category": "Co-op",
     "rating": 4,
     "image": "images/deadofwinterlastnight.jpg"
+   },
+   {
+    "name": "Dead Panic",
+    "playersMin": 2,
+    "playersMax": 5,
+    "duration": 90,
+    "difficulty": "medium",
+    "category": "Co-op",
+    "rating": 4,
+    "image": "images/deadpanic.jpg"
    }
 ]
+
 
 
 
