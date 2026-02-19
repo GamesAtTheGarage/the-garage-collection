@@ -408,8 +408,19 @@
     "category": "Expansion",
     "rating": 4,
     "image": "images/eoewarmaps.jpg"
+   },
+   {
+    "name": "Era: Medieval Age",
+    "playersMin": 1,
+    "playersMax": 4,
+    "duration": 50,
+    "difficulty": "medium",
+    "category": "Worker placement",
+    "rating": 4,
+    "image": "images/eramedievalage.jpg"
    }
 ]
+
 
 
 
