@@ -925,11 +925,32 @@
     "playersMax": 7,
     "duration": 15,
     "difficulty": "Hard",
-    "category": "Co-op",
+    "category": "Expansion",
     "rating": 5,
     "image": "images/quicksanddangermode.jpg"
+   },
+   {
+    "name": "Revolver",
+    "playersMin": 2,
+    "playersMax": 2,
+    "duration": 45,
+    "difficulty": "medium",
+    "category": "Cards",
+    "rating": 5,
+    "image": "images/revolver.jpg"
+   },
+   {
+    "name": "Revolver 2",
+    "playersMin": 2,
+    "playersMax": 2,
+    "duration": 45,
+    "difficulty": "medium",
+    "category": "Cards",
+    "rating": 5,
+    "image": "images/revolver2.jpg"
    }
 ]
+
 
 
 
