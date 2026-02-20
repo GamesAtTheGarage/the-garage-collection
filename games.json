@@ -1018,8 +1018,29 @@
     "category": "Cards",
     "rating": 4,
     "image": "images/saboteur2.jpg"
+   },
+   {
+    "name": "Saboteur Duel",
+    "playersMin": 1,
+    "playersMax": 2,
+    "duration": 25,
+    "difficulty": "easy",
+    "category": "Cards",
+    "rating": 4,
+    "image": "images/saboteurduel.jpg"
+   },
+   {
+    "name": "Saboteur De Donkere Grot",
+    "playersMin": 2,
+    "playersMax": 8,
+    "duration": 45,
+    "difficulty": "easy",
+    "category": "Cards",
+    "rating": 4,
+    "image": "images/saboteurdonkeregrot.jpg"
    }
 ]
+
 
 
 
