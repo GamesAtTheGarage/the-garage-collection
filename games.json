@@ -478,8 +478,19 @@
     "category": "Co-op",
     "rating": 4,
     "image": "images/falloutwastelandwarfare.jpg"
+   },
+   {
+    "name": "Faraway",
+    "playersMin": 2,
+    "playersMax": 6,
+    "duration": 30,
+    "difficulty": "easy",
+    "category": "Cards",
+    "rating": 4,
+    "image": "images/faraway.jpg"
    }
 ]
+
 
 
 
