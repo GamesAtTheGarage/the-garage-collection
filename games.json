@@ -528,8 +528,19 @@
     "category": "Expansion",
     "rating": 4,
     "image": "images/fledspectre.jpg"
+   },
+   {
+    "name": "Flip 7",
+    "playersMin": 3,
+    "playersMax": 18,
+    "duration": 60,
+    "difficulty": "easy",
+    "category": "Cards",
+    "rating": 4,
+    "image": "images/flip7.jpg"
    }
 ]
+
 
 
 
