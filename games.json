@@ -958,8 +958,19 @@
     "category": "Cards",
     "rating": 3,
     "image": "images/reworld.jpg"
+   },
+   {
+    "name": "River Valley Glassworks",
+    "playersMin": 1,
+    "playersMax": 5,
+    "duration": 45,
+    "difficulty": "easy",
+    "category": "Worker placement",
+    "rating": 5,
+    "image": "images/rivervalleyglassworks.jpg"
    }
 ]
+
 
 
 
