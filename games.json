@@ -908,8 +908,29 @@
     "category": "Cards",
     "rating": 5,
     "image": "images/pointcity.jpg"
+   },
+   {
+    "name": "Quicksand",
+    "playersMin": 1,
+    "playersMax": 7,
+    "duration": 15,
+    "difficulty": "easy",
+    "category": "Co-op",
+    "rating": 5,
+    "image": "images/Quicksand.jpg"
+   },
+   {
+    "name": "Quicksand Danger Mode",
+    "playersMin": 1,
+    "playersMax": 7,
+    "duration": 15,
+    "difficulty": "Hard",
+    "category": "Co-op",
+    "rating": 5,
+    "image": "images/quicksanddangermode.jpg"
    }
 ]
+
 
 
 
