@@ -708,8 +708,29 @@
     "category": "Cards",
     "rating": 4,
     "image": "images/lotrduel.jpg"
+   },
+   {
+    "name": "Love Letter",
+    "playersMin": 2,
+    "playersMax": 4,
+    "duration": 20,
+    "difficulty": "easy",
+     "category": "Cards",
+    "rating": 4,
+    "image": "images/loveletter.jpg"
+   },
+   {
+    "name": "Lying Pirates",
+    "playersMin": 2,
+    "playersMax": 6,
+    "duration": 60,
+    "difficulty": "easy",
+    "category": "Dice",
+    "rating": 4,
+    "image": "images/lyingpirates.jpg"
    }
 ]
+
 
 
 
