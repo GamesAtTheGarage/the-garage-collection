@@ -1048,8 +1048,29 @@
     "category": "Worker placement",
     "rating": 4,
     "image": "images/sierrawest.jpg"
+   },
+   {
+    "name": "Sky Team",
+    "playersMin": 2,
+    "playersMax": 2,
+    "duration": 20,
+    "difficulty": "hard",
+    "category": "Dice",
+    "rating": 4,
+    "image": "images/skyteam.jpg"
+   },
+   {
+    "name": "Sky Team: Turbulence",
+    "playersMin": 2,
+    "playersMax": 2,
+    "duration": 20,
+    "difficulty": "hard",
+    "category": "Expansion",
+    "rating": 4,
+    "image": "images/skyteamturbulence.jpg"
    }
 ]
+
 
 
 
