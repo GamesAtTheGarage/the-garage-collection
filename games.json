@@ -1078,8 +1078,19 @@
     "category": "Cards",
     "rating": 4,
     "image": "images/skyjo.jpg"
+   },
+   {
+    "name": "Sleeping Gods: Primeval Peril",
+    "playersMin": 1,
+    "playersMax": 4,
+    "duration": 120,
+    "difficulty": "hard",
+    "category": "Co-op",
+    "rating": 4,
+    "image": "images/sleepinggodspremievalperil.jpg"
    }
 ]
+
 
 
 
