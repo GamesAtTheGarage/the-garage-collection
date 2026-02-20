@@ -488,8 +488,19 @@
     "category": "Cards",
     "rating": 4,
     "image": "images/faraway.jpg"
+   },
+   {
+    "name": "Faraway: People from Below",
+    "playersMin": 2,
+    "playersMax": 6,
+    "duration": 30,
+    "difficulty": "easy",
+    "category": "Expansion",
+    "rating": 4,
+    "image": "images/farawaypeoplefrombelow.jpg"
    }
 ]
+
 
 
 
