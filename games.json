@@ -608,8 +608,39 @@
     "category": "Expansion",
     "rating": 4,
     "image": "images/heattunnelvision.jpg"
+   },
+   {
+    "name": "Hister Bingo",
+    "playersMin": 1,
+    "playersMax": 10,
+    "duration": 60,
+    "difficulty": "easy",
+    "category": "Music",
+    "rating": 4,
+    "image": "images/hitsterbingo.jpg"
+   },
+   {
+    "name": "Hitster Rock",
+    "playersMin": 1,
+    "playersMax": 10,
+    "duration": 60,
+    "difficulty": "easy",
+    "category": "Expansion",
+    "rating": 4,
+    "image": "images/hitsterrock.jpg"
+   },
+   {
+    "name": "Hitstermovies",
+    "playersMin": 1,
+    "playersMax": 10,
+    "duration": 60,
+    "difficulty": "easy",
+    "category": "Expansion",
+    "rating": 4,
+    "image": "images/hitstermovies.jpg"
    }
 ]
+
 
 
 
