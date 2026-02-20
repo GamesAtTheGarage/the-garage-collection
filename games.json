@@ -1008,8 +1008,19 @@
     "category": "Cards",
     "rating": 4,
     "image": "images/saboteur.jpg"
+   },
+   {
+    "name": "Saboteur 2",
+    "playersMin": 2,
+    "playersMax": 12,
+    "duration": 45,
+    "difficulty": "easy",
+    "category": "Cards",
+    "rating": 4,
+    "image": "images/saboteur2.jpg"
    }
 ]
+
 
 
 
