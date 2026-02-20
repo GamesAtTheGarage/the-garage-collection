@@ -917,7 +917,7 @@
     "difficulty": "easy",
     "category": "Co-op",
     "rating": 5,
-    "image": "images/Quicksand.jpg"
+    "image": "images/quicksand.jpg"
    },
    {
     "name": "Quicksand Danger Mode",
@@ -930,6 +930,7 @@
     "image": "images/quicksanddangermode.jpg"
    }
 ]
+
 
 
 
