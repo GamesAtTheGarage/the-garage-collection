@@ -390,6 +390,16 @@
     "image": "images/deadpanic.jpg"
    },
    {
+    "name": "Dominion",
+    "playersMin": 2,
+    "playersMax": 4,
+    "duration": 30,
+    "difficulty": "medium",
+    "category": "Cards",
+    "rating": 4,
+    "image": "images/dominion.jpg"
+   },
+   {
     "name": "Echoes of Emperors",
     "playersMin": 2,
     "playersMax": 4,
@@ -810,6 +820,7 @@
     "image": "images/nemesisaftermath.jpg"
    }
 ]
+
 
 
 
