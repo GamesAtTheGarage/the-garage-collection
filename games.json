@@ -988,8 +988,29 @@
     "category": "Cards",
     "rating": 5,
     "image": "images/roborally.jpg"
+   },
+   {
+    "name": "Rummikub",
+    "playersMin": 2,
+    "playersMax": 4,
+    "duration": 50,
+    "difficulty": "easy",
+    "category": "Strategy",
+    "rating": 3,
+    "image": "images/rummikub.jpg"
+   },
+   {
+    "name": "Saboteur",
+    "playersMin": 3,
+    "playersMax": 10,
+    "duration": 30,
+    "difficulty": "easy",
+    "category": "Cards",
+    "rating": 4,
+    "image": "images/saboteur.jpg"
    }
 ]
+
 
 
 
