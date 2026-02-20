@@ -1068,8 +1068,19 @@
     "category": "Expansion",
     "rating": 4,
     "image": "images/skyteamturbulence.jpg"
+   },
+   {
+    "name": "Skyjo",
+    "playersMin": 2,
+    "playersMax": 8,
+    "duration": 30,
+    "difficulty": "easy",
+    "category": "Cards",
+    "rating": 4,
+    "image": "images/skyjo.jpg"
    }
 ]
+
 
 
 
