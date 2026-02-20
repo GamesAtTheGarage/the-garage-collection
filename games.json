@@ -648,8 +648,19 @@
     "category": "Tile placement",
     "rating": 4,
     "image": "images/hive.jpg"
+   },
+   {
+    "name": "Horrified",
+    "playersMin": 1,
+    "playersMax": 5,
+    "duration": 50,
+    "difficulty": "easy",
+    "category": "Co-op",
+    "rating": 4,
+    "image": "images/horrified.jpg"
    }
 ]
+
 
 
 
