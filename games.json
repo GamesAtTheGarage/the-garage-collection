@@ -468,8 +468,19 @@
     "category": "Worker placement",
     "rating": 4,
     "image": "images/falloutshelter.jpg"
+   },
+   {
+    "name": "Fallout Wasteland Warfare",
+    "playersMin": 2,
+    "playersMax": 8,
+    "duration": 120,
+    "difficulty": "Hard",
+    "category": "Co-op",
+    "rating": 4,
+    "image": "images/falloutwastelandwarfare.jpg"
    }
 ]
+
 
 
 
