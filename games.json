@@ -578,8 +578,39 @@
     "category": "Worker placement",
     "rating": 4,
     "image": "images/golem.jpg"
+   },
+   {
+    "name": "Heat: Pedal to the Metal",
+    "playersMin": 1,
+    "playersMax": 6,
+    "duration": 60,
+    "difficulty": "easy",
+    "category": "Cards",
+    "rating": 4,
+    "image": "images/heat.jpg"
+   },
+   {
+    "name": "Heat: Heavy Rain",
+    "playersMin": 1,
+    "playersMax": 8,
+    "duration": 90,
+    "difficulty": "easy",
+    "category": "Expansion",
+    "rating": 4,
+    "image": "images/heatheavyrain.jpg"
+   },
+   {
+    "name": "Heat: Tunnel Vision",
+    "playersMin": 1,
+    "playersMax": 8,
+    "duration": 90,
+    "difficulty": "easy",
+    "category": "Expansion",
+    "rating": 4,
+    "image": "images/heattunnelvision.jpg"
    }
 ]
+
 
 
 
