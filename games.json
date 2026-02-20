@@ -868,8 +868,19 @@
     "category": "Expansion",
     "rating": 5,
     "image": "images/parksnightfall.jpg"
+   },
+   {
+    "name": "Parks: Wildlife",
+    "playersMin": 1,
+    "playersMax": 5,
+    "duration": 45,
+    "difficulty": "easy",
+    "category": "Expansion",
+    "rating": 5,
+    "image": "images/parkswildlife.jpg"
    }
 ]
+
 
 
 
