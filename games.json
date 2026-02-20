@@ -878,8 +878,19 @@
     "category": "Expansion",
     "rating": 5,
     "image": "images/parkswildlife.jpg"
+   },
+   {
+    "name": "Pina Coladice",
+    "playersMin": 2,
+    "playersMax": 4,
+    "duration": 15,
+    "difficulty": "easy",
+    "category": "Dice",
+    "rating": 5,
+    "image": "images/pinacoladice.jpg"
    }
 ]
+
 
 
 
