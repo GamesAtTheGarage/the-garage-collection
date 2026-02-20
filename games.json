@@ -538,8 +538,19 @@
     "category": "Cards",
     "rating": 4,
     "image": "images/flip7.jpg"
+   },
+   {
+    "name": "Fliptown",
+    "playersMin": 1,
+    "playersMax": 4,
+    "duration": 45,
+    "difficulty": "easy",
+    "category": "Roll 'n write",
+    "rating": 4,
+    "image": "images/fliptown.jpg"
    }
 ]
+
 
 
 
