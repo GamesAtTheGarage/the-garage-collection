@@ -688,8 +688,29 @@
     "category": "Worker placement",
     "rating": 4,
     "image": "images/longhorn.jpg"
+   },
+   {
+    "name": "Looot",
+    "playersMin": 2,
+    "playersMax": 4,
+    "duration": 30,
+    "difficulty": "easy",
+    "category": "Tile placement",
+    "rating": 4,
+    "image": "images/looot.jpg"
+   },
+   {
+    "name": "Lord of the rings: Duel for middle earth",
+    "playersMin": 2,
+    "playersMax": 2,
+    "duration": 30,
+    "difficulty": "easy",
+    "category": "Cards",
+    "rating": 4,
+    "image": "images/lotrduel.jpg"
    }
 ]
+
 
 
 
