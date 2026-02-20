@@ -558,8 +558,19 @@
     "category": "Worker placement",
     "rating": 4,
     "image": "images/forbiddendesert.jpg"
+   },
+   {
+    "name": "The Fox Experiment",
+    "playersMin": 1,
+    "playersMax": 4,
+    "duration": 60,
+    "difficulty": "medium",
+    "category": "Dice",
+    "rating": 4,
+    "image": "images/thefoxexperiment.jpg"
    }
 ]
+
 
 
 
