@@ -968,8 +968,19 @@
     "category": "Worker placement",
     "rating": 5,
     "image": "images/rivervalleyglassworks.jpg"
+   },
+   {
+    "name": "Road Rally USA",
+    "playersMin": 3,
+    "playersMax": 5,
+    "duration": 50,
+    "difficulty": "easy",
+    "category": "Cards",
+    "rating": 5,
+    "image": "images/roadrallyusa.jpg"
    }
 ]
+
 
 
 
