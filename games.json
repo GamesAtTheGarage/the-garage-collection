@@ -428,8 +428,19 @@
     "category": "Expansion",
     "rating": 4,
     "image": "images/erariverroads.jpg"
+   },
+   {
+    "name": "Everdell: Farshore",
+    "playersMin": 1,
+    "playersMax": 4,
+    "duration": 75,
+    "difficulty": "medium",
+    "category": "Worker placement",
+    "rating": 4,
+    "image": "images/everdellfarshore.jpg"
    }
 ]
+
 
 
 
