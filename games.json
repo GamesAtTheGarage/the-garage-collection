@@ -1088,8 +1088,19 @@
     "category": "Co-op",
     "rating": 4,
     "image": "images/sleepinggodspremievalevil.jpg"
+   },
+   {
+    "name": "Sounds Fishy",
+    "playersMin": 3,
+    "playersMax": 10,
+    "duration": 30,
+    "difficulty": "easy",
+    "category": "Party",
+    "rating": 4,
+    "image": "images/soundsfishy.jpg"
    }
 ]
+
 
 
 
