@@ -548,8 +548,19 @@
     "category": "Roll 'n write",
     "rating": 4,
     "image": "images/fliptown.jpg"
+   },
+   {
+    "name": "Forbidden Desert ( De Vergeten Stad)",
+    "playersMin": 2,
+    "playersMax": 5,
+    "duration": 30,
+    "difficulty": "easy",
+    "category": "Worker placement",
+    "rating": 4,
+    "image": "images/forbiddendesert.jpg"
    }
 ]
+
 
 
 
