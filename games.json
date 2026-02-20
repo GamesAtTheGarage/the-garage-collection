@@ -568,8 +568,19 @@
     "category": "Dice",
     "rating": 4,
     "image": "images/thefoxexperiment.jpg"
+   },
+   {
+    "name": "Golem",
+    "playersMin": 1,
+    "playersMax": 4,
+    "duration": 120,
+    "difficulty": "hard",
+    "category": "Worker placement",
+    "rating": 4,
+    "image": "images/golem.jpg"
    }
 ]
+
 
 
 
