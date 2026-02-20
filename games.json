@@ -658,8 +658,19 @@
     "category": "Co-op",
     "rating": 4,
     "image": "images/horrified.jpg"
+   },
+   {
+    "name": "Knarr",
+    "playersMin": 1,
+    "playersMax": 4,
+    "duration": 25,
+    "difficulty": "easy",
+    "category": "Worker placement",
+    "rating": 4,
+    "image": "images/knarr.jpg"
    }
 ]
+
 
 
 
