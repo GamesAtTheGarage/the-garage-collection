@@ -788,8 +788,29 @@
     "category": "Cards",
     "rating": 4,
     "image": "images/munchkindeluxe.jpg"
+   },
+   {
+    "name": "Nemesis",
+    "playersMin": 1,
+    "playersMax": 5,
+    "duration": 120,
+    "difficulty": "hard",
+    "category": "Co-op",
+    "rating": 4,
+    "image": "images/nemesis.jpg"
+   },
+   {
+    "name": "Nemesis Aftermath",
+    "playersMin": 1,
+    "playersMax": 5,
+    "duration": 60,
+    "difficulty": "hard",
+    "category": "Co-op",
+    "rating": 4,
+    "image": "images/nemesisaftermath.jpg"
    }
 ]
+
 
 
 
