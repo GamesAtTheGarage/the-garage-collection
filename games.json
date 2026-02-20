@@ -508,8 +508,29 @@
     "category": "Dice",
     "rating": 4,
     "image": "images/finalgirl.jpg"
+   },
+   {
+    "name": "FLED",
+    "playersMin": 1,
+    "playersMax": 4,
+    "duration": 60,
+    "difficulty": "easy",
+    "category": "Cards",
+    "rating": 4,
+    "image": "images/fled.jpg"
+   },
+   {
+    "name": "FLED: The Spectre",
+    "playersMin": 1,
+    "playersMax": 4,
+    "duration": 60,
+    "difficulty": "medium",
+    "category": "Expansion",
+    "rating": 4,
+    "image": "images/fledspectre.jpg"
    }
 ]
+
 
 
 
