@@ -848,8 +848,29 @@
     "category": "Co-op",
     "rating": 4,
     "image": "images/pandemic.jpg"
+   },
+   {
+    "name": "Parks",
+    "playersMin": 1,
+    "playersMax": 5,
+    "duration": 50,
+    "difficulty": "easy",
+    "category": "Worker placement",
+    "rating": 5,
+    "image": "images/parks.jpg"
+   },
+   {
+    "name": "Parks: Nightfall",
+    "playersMin": 1,
+    "playersMax": 5,
+    "duration": 45,
+    "difficulty": "easy",
+    "category": "Expansion",
+    "rating": 5,
+    "image": "images/parksnightfall.jpg"
    }
 ]
+
 
 
 
