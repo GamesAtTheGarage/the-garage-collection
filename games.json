@@ -728,8 +728,29 @@
     "category": "Dice",
     "rating": 4,
     "image": "images/lyingpirates.jpg"
+   },
+   {
+    "name": "Magical Athlete",
+    "playersMin": 2,
+    "playersMax": 6,
+    "duration": 30,
+    "difficulty": "easy",
+     "category": "Dice",
+    "rating": 4,
+    "image": "images/magicalathlete.jpg"
+   },
+   {
+    "name": "Mansions of Madness 2nd edition",
+    "playersMin": 1,
+    "playersMax": 5,
+    "duration": 120,
+    "difficulty": "medium",
+    "category": "Co-op",
+    "rating": 4,
+    "image": "images/mansionsofmadness.jpg"
    }
 ]
+
 
 
 
