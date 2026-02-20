@@ -841,7 +841,7 @@
    },
    {
     "name": "Pandemic",
-    "playersMin": ,
+    "playersMin": 2,
     "playersMax": 4,
     "duration": 45,
     "difficulty": "easy",
@@ -850,6 +850,7 @@
     "image": "images/pandemic.jpg"
    }
 ]
+
 
 
 
