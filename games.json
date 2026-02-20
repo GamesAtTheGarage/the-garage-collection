@@ -458,8 +458,19 @@
     "category": "Cards",
     "rating": 4,
     "image": "images/explodingkittensnsfw.jpg"
+   },
+   {
+    "name": "Fallout Shelter",
+    "playersMin": 2,
+    "playersMax": 4,
+    "duration": 60,
+    "difficulty": "easy",
+    "category": "Worker placement",
+    "rating": 4,
+    "image": "images/falloutshelter.jpg"
    }
 ]
+
 
 
 
