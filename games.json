@@ -948,8 +948,19 @@
     "category": "Cards",
     "rating": 5,
     "image": "images/revolver2.jpg"
+   },
+   {
+    "name": "Reworld",
+    "playersMin": 2,
+    "playersMax": 4,
+    "duration": 60,
+    "difficulty": "medium",
+    "category": "Cards",
+    "rating": 3,
+    "image": "images/reworld.jpg"
    }
 ]
+
 
 
 
