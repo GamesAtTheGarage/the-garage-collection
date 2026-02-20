@@ -668,8 +668,29 @@
     "category": "Worker placement",
     "rating": 4,
     "image": "images/knarr.jpg"
+   },
+  {
+    "name": "Labyrinth 3D",
+    "playersMin": 2,
+    "playersMax": 4,
+    "duration": 50,
+    "difficulty": "easy",
+    "category": "Tile placement",
+    "rating": 4,
+    "image": "images/labyrinth.jpg"
+   },
+   {
+    "name": "Longhorn",
+    "playersMin": 2,
+    "playersMax": 2,
+    "duration": 15,
+    "difficulty": "easy",
+    "category": "Worker placement",
+    "rating": 4,
+    "image": "images/longhorn.jpg"
    }
 ]
+
 
 
 
