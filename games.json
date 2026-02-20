@@ -438,8 +438,19 @@
     "category": "Worker placement",
     "rating": 4,
     "image": "images/everdellfarshore.jpg"
+   },
+   {
+    "name": "Everything Lost",
+    "playersMin": 1,
+    "playersMax": 1,
+    "duration": 75,
+    "difficulty": "medium",
+    "category": "Worker placement",
+    "rating": 4,
+    "image": "images/everythinglost.jpg"
    }
 ]
+
 
 
 
