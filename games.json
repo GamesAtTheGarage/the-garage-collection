@@ -638,8 +638,19 @@
     "category": "Expansion",
     "rating": 4,
     "image": "images/hitstermovies.jpg"
+   },
+   {
+    "name": "Hive",
+    "playersMin": 2,
+    "playersMax": 2,
+    "duration": 25,
+    "difficulty": "easy",
+    "category": "Tile placement",
+    "rating": 4,
+    "image": "images/hive.jpg"
    }
 ]
+
 
 
 
