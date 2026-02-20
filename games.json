@@ -778,8 +778,19 @@
     "category": "Dice",
     "rating": 4,
     "image": "images/motograndprix.jpg"
+   },
+   {
+    "name": "Munchkin Deluxe",
+    "playersMin": 3,
+    "playersMax": 6,
+    "duration": 75,
+    "difficulty": "easy",
+    "category": "Cards",
+    "rating": 4,
+    "image": "images/munchkindeluxe.jpg"
    }
 ]
+
 
 
 
