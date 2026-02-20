@@ -310,6 +310,16 @@
     "image": "images/chaosarena.jpg"
    },
    {
+    "name": "Chili Dice",
+    "playersMin": 1,
+    "playersMax": 4,
+    "duration": 30,
+    "difficulty": "easy",
+    "category": "Dice",
+    "rating": 4,
+    "image": "images/chilidice.jpg"
+   },
+   {
     "name": "Citadels ( Machiavelli)",
     "playersMin": 2,
     "playersMax": 8,
@@ -1100,6 +1110,7 @@
     "image": "images/soundsfishy.jpg"
    }
 ]
+
 
 
 
