@@ -838,8 +838,19 @@
     "category": "Cards",
     "rating": 4,
     "image": "images/outlaws.jpg"
+   },
+   {
+    "name": "Pandemic",
+    "playersMin": ,
+    "playersMax": 4,
+    "duration": 45,
+    "difficulty": "easy",
+    "category": "Co-op",
+    "rating": 4,
+    "image": "images/pandemic.jpg"
    }
 ]
+
 
 
 
