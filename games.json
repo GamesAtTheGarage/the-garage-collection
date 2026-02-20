@@ -498,8 +498,19 @@
     "category": "Expansion",
     "rating": 4,
     "image": "images/farawaypeoplefrombelow.jpg"
+   },
+   {
+    "name": "Final Girl Complete Edition",
+    "playersMin": 1,
+    "playersMax": 1,
+    "duration": 90,
+    "difficulty": "hard",
+    "category": "Dice",
+    "rating": 4,
+    "image": "images/finalgirl.jpg"
    }
 ]
+
 
 
 
