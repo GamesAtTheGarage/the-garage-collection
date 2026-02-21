@@ -1108,8 +1108,19 @@
     "category": "Party",
     "rating": 4,
     "image": "images/soundsfishy.jpg"
-   }
+   },
+   {
+    "name": "Sutter's Mill",
+    "playersMin": 2,
+    "playersMax": 4,
+    "duration": 60,
+    "difficulty": "Medium",
+    "category": "Worker placement",
+    "rating": 4,
+    "image": "images/suttersmill.jpg"
+  }
 ]
+
 
 
 
