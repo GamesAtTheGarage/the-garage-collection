@@ -1138,8 +1138,39 @@
     "category": "Cards",
     "rating": 4,
     "image": "images/thunderalley.jpg"
+  },
+  {
+    "name": "Ticket to ride (USA)",
+    "playersMin": 2,
+    "playersMax": 5,
+    "duration": 45,
+    "difficulty": "easy",
+    "category": "Cards",
+    "rating": 4,
+    "image": "images/tickettoride.jpg"
+  },
+  {
+    "name": "Ticket to ride USA 1910",
+    "playersMin": 2,
+    "playersMax": 4,
+    "duration": 50,
+    "difficulty": "easy",
+    "category": "Expansion",
+    "rating": 4,
+    "image": "images/tickettoride1910.jpg"
+  },
+  {
+    "name": "Tickt to ride Amsterdam",
+    "playersMin": 2,
+    "playersMax": 4,
+    "duration": 15,
+    "difficulty": "easy",
+    "category": "Cards",
+    "rating": 4,
+    "image": "images/tickettorideamsterdam.jpg"
   }
 ]
+
 
 
 
