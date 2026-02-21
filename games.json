@@ -1128,8 +1128,19 @@
     "category": "Worker placement",
     "rating": 4,
     "image": "images/taveernenvandeoudestad.jpg"
+  },
+  {
+    "name": "Thunder Alley",
+    "playersMin": 2,
+    "playersMax": 7,
+    "duration": 90,
+    "difficulty": "Medium",
+    "category": "Cards",
+    "rating": 4,
+    "image": "images/thunderalley.jpg"
   }
 ]
+
 
 
 
