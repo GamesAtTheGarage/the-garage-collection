@@ -1160,7 +1160,7 @@
     "image": "images/tickettoride1910.jpg"
   },
   {
-    "name": "Tickt to ride Amsterdam",
+    "name": "Ticket to ride Amsterdam",
     "playersMin": 2,
     "playersMax": 4,
     "duration": 15,
@@ -1168,8 +1168,29 @@
     "category": "Cards",
     "rating": 4,
     "image": "images/tickettorideamsterdam.jpg"
+  },
+  {
+    "name": "Trailblazer: The Arizona Trail",
+    "playersMin": 1,
+    "playersMax": 4,
+    "duration": 120,
+    "difficulty": "hard",
+    "category": "Worker placement",
+    "rating": 4,
+    "image": "images/trailblazerarizona.jpg"
+  },
+  {
+    "name": "Trekking through history",
+    "playersMin": 1,
+    "playersMax": 4,
+    "duration": 45,
+    "difficulty": "easy",
+    "category": "Cards",
+    "rating": 4,
+    "image": "images/trekkingthroughhistory.jpg"
   }
 ]
+
 
 
 
