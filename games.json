@@ -175,7 +175,7 @@
     "playersMax": 4,
     "duration": 45,
     "difficulty": "easy",
-    "category": "worker placement",
+    "category": "Worker placement",
     "rating": 5,
     "image": "images/cactustown.jpg"
    },
@@ -1190,6 +1190,7 @@
     "image": "images/trekkingthroughhistory.jpg"
   }
 ]
+
 
 
 
