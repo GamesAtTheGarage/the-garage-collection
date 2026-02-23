@@ -1248,8 +1248,19 @@
     "category": "Expansion",
     "rating": 4,
     "image": "images/westernlegendsanteup.jpg"
+  },
+  {
+    "name": "World without end (Brug naar de hemel)",
+    "playersMin": 2,
+    "playersMax": 4,
+    "duration": 90,
+    "difficulty": "medium",
+    "category": "Worker placement",
+    "rating": 4,
+    "image": "images/brugnaardehemel.jpg"
   }
 ]
+
 
 
 
