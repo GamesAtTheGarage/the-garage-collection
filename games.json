@@ -1228,8 +1228,29 @@
     "category": "Cards",
     "rating": 4,
     "image": "images/rozenoorlog.jpg"
+  },
+  {
+    "name": "Western Legends",
+    "playersMin": 2,
+    "playersMax": 6,
+    "duration": 90,
+    "difficulty": "medium",
+    "category": "Sandbox",
+    "rating": 5,
+    "image": "images/westernlegens.jpg"
+  },
+  {
+    "name": "Western Legends: Ante Up ",
+    "playersMin": 2,
+    "playersMax": 6,
+    "duration": 120,
+    "difficulty": "medium",
+    "category": "Expansion",
+    "rating": 4,
+    "image": "images/westernlegendsanteup.jpg"
   }
 ]
+
 
 
 
