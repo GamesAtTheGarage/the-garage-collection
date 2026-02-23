@@ -1278,8 +1278,19 @@
     "category": "Sandbox",
     "rating": 4,
     "image": "images/zombicideangryneighbors.jpg"
+  },
+  {
+    "name": "Zombie Dice",
+    "playersMin": 2,
+    "playersMax": 20,
+    "duration": 15,
+    "difficulty": "easy",
+    "category": "Dice",
+    "rating": 4,
+    "image": "images/zombiedice.jpg"
   }
 ]
+
 
 
 
