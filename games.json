@@ -69,6 +69,16 @@
     "rating": 4,
     "image": "images/althing.jpg"
    },
+  {
+    "name": "Arkham Horror",
+    "playersMin": 1,
+    "playersMax": 8,
+    "duration": 120,
+    "difficulty": "easy",
+    "category": "Cards",
+    "rating": 4,
+    "image": "images/arhamhorror.jpg"
+   },
    {
     "name": "Axis & Alies: Europe",
     "playersMin": 2,
@@ -1290,6 +1300,7 @@
     "image": "images/zombiedice.jpg"
   }
 ]
+
 
 
 
