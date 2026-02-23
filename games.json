@@ -980,6 +980,16 @@
     "image": "images/reworld.jpg"
    },
    {
+    "name": "Risk",
+    "playersMin": 2,
+    "playersMax": 5,
+    "duration": 60,
+    "difficulty": "medium",
+    "category": "Strategy",
+    "rating": 3,
+    "image": "images/risk.jpg"
+   },
+   {
     "name": "River Valley Glassworks",
     "playersMin": 1,
     "playersMax": 5,
@@ -1300,6 +1310,7 @@
     "image": "images/zombiedice.jpg"
   }
 ]
+
 
 
 
