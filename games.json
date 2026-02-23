@@ -1188,8 +1188,29 @@
     "category": "Cards",
     "rating": 4,
     "image": "images/trekkingthroughhistory.jpg"
+  },
+  {
+    "name": "Tsuro",
+    "playersMin": 2,
+    "playersMax": 8,
+    "duration": 20,
+    "difficulty": "easy",
+    "category": "Tile placement",
+    "rating": 5,
+    "image": "images/tsuro.jpg"
+  },
+  {
+    "name": "U-Boot",
+    "playersMin": 1,
+    "playersMax": 4,
+    "duration": 90,
+    "difficulty": "hard",
+    "category": "Simulation",
+    "rating": 4,
+    "image": "images/uboot.jpg"
   }
 ]
+
 
 
 
