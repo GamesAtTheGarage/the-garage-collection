@@ -1258,8 +1258,29 @@
     "category": "Worker placement",
     "rating": 4,
     "image": "images/brugnaardehemel.jpg"
+  },
+  {
+    "name": "Zombicide",
+    "playersMin": 1,
+    "playersMax": 6,
+    "duration": 120,
+    "difficulty": "medium",
+    "category": "Sandbox",
+    "rating": 4,
+    "image": "images/zombicide.jpg"
+  },
+  {
+    "name": "Zombicide: ANgry Neighbors",
+    "playersMin": 1,
+    "playersMax": 12,
+    "duration": 90,
+    "difficulty": "medium",
+    "category": "Sandbox",
+    "rating": 4,
+    "image": "images/zombicideangryneighbors.jpg"
   }
 ]
+
 
 
 
