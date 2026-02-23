@@ -1208,8 +1208,29 @@
     "category": "Simulation",
     "rating": 4,
     "image": "images/uboot.jpg"
+  },
+  {
+    "name": "Wandering Towers",
+    "playersMin": 2,
+    "playersMax": 8,
+    "duration": 20,
+    "difficulty": "easy",
+    "category": "Tile placement",
+    "rating": 5,
+    "image": "images/wanderingtowers.jpg"
+  },
+  {
+    "name": "War of the roses (Rozenoorlog)",
+    "playersMin": 2,
+    "playersMax": 4,
+    "duration": 120,
+    "difficulty": "hard",
+    "category": "Cards",
+    "rating": 4,
+    "image": "images/rozenoorlog.jpg"
   }
 ]
+
 
 
 
