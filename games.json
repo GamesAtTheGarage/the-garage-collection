@@ -690,6 +690,16 @@
     "image": "images/horrified.jpg"
    },
    {
+    "name": "Hot Streak",
+    "playersMin": 2,
+    "playersMax": 8,
+    "duration": 25,
+    "difficulty": "easy",
+    "category": "Party",
+    "rating": 5,
+    "image": "images/hotstreak.jpg"
+   },
+   {
     "name": "Knarr",
     "playersMin": 1,
     "playersMax": 4,
@@ -1310,6 +1320,7 @@
     "image": "images/zombiedice.jpg"
   }
 ]
+
 
 
 
