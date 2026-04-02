@@ -540,7 +540,7 @@
     "image": "images/finalgirl.jpg"
    },
    {
-    "name": "Final Girl: S1 Carnage at the carnival",
+    "name": "Final Girl: S1 Carnage At The Carnival",
     "playersMin": 1,
     "playersMax": 1,
     "duration": 90,
@@ -550,7 +550,7 @@
     "image": "images/finalgirlcarnival.jpg"
    },
    {
-    "name": "Final Girl: S1 Frightmare on Maple Lane",
+    "name": "Final Girl: S1 Frightmare On Maple Lane",
     "playersMin": 1,
     "playersMax": 1,
     "duration": 90,
@@ -560,7 +560,7 @@
     "image": "images/finalgirlmaplelane.jpg"
    },
    {
-    "name": "Final Girl: S1 Slaughter in the groves",
+    "name": "Final Girl: S1 Slaughter In The Groves",
     "playersMin": 1,
     "playersMax": 1,
     "duration": 90,
@@ -570,7 +570,7 @@
     "image": "images/finalgirlgroves.jpg"
    },
    {
-    "name": "Final Girl: S1 The happy trails horror",
+    "name": "Final Girl: S1 The Happy Trails Horror",
     "playersMin": 1,
     "playersMax": 1,
     "duration": 90,
@@ -590,7 +590,7 @@
     "image": "images/finalgirlcreechmanor.jpg"
    },
    {
-    "name": "Final Girl: S1 Terror from above",
+    "name": "Final Girl: S1 Terror From Above",
     "playersMin": 1,
     "playersMax": 1,
     "duration": 90,
@@ -598,6 +598,16 @@
     "category": "Dice",
     "rating": 4,
     "image": "images/finalgirlterrorfromabove.jpg"
+   },
+   {
+    "name": "Final Girl: S1 The North Pole Nightmare",
+    "playersMin": 1,
+    "playersMax": 1,
+    "duration": 90,
+    "difficulty": "hard",
+    "category": "Dice",
+    "rating": 4,
+    "image": "images/finalgirlnorthpole.jpg"
    },
    {
     "name": "FLED",
