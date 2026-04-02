@@ -640,6 +640,16 @@
     "image": "images/flip7.jpg"
    },
    {
+    "name": "Flip 7 With A Vengeance",
+    "playersMin": 3,
+    "playersMax": 18,
+    "duration": 60,
+    "difficulty": "easy",
+    "category": "Cards",
+    "rating": 4,
+    "image": "images/flip7vengeance.jpg"
+   },
+   {
     "name": "Fliptown",
     "playersMin": 1,
     "playersMax": 4,
