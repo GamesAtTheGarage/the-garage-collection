@@ -540,6 +540,26 @@
     "image": "images/finalgirl.jpg"
    },
    {
+    "name": "Final Girl: S1 Carnage at the carnival",
+    "playersMin": 1,
+    "playersMax": 1,
+    "duration": 90,
+    "difficulty": "hard",
+    "category": "Dice",
+    "rating": 4,
+    "image": "images/finalgirlcarnival.jpg"
+   },
+   {
+    "name": "Final Girl: S1 Frightmare on Maple Lane",
+    "playersMin": 1,
+    "playersMax": 1,
+    "duration": 90,
+    "difficulty": "hard",
+    "category": "Dice",
+    "rating": 4,
+    "image": "images/finalgirlmaplelane.jpg"
+   },
+   {
     "name": "FLED",
     "playersMin": 1,
     "playersMax": 4,
