@@ -570,7 +570,7 @@
     "image": "images/finalgirlgroves.jpg"
    },
    {
-    "name": "Final Girl: S1 The happe trails horror",
+    "name": "Final Girl: S1 The happy trails horror",
     "playersMin": 1,
     "playersMax": 1,
     "duration": 90,
@@ -578,6 +578,26 @@
     "category": "Dice",
     "rating": 4,
     "image": "images/finalgirlcamphappy.jpg"
+   },
+  {
+    "name": "Final Girl: S1 The haunting of Creech Manor",
+    "playersMin": 1,
+    "playersMax": 1,
+    "duration": 90,
+    "difficulty": "hard",
+    "category": "Dice",
+    "rating": 4,
+    "image": "images/finalgirlcreechmanor.jpg"
+   },
+   {
+    "name": "Final Girl: S1 Terror from above",
+    "playersMin": 1,
+    "playersMax": 1,
+    "duration": 90,
+    "difficulty": "hard",
+    "category": "Dice",
+    "rating": 4,
+    "image": "images/finalgirlterrorfromabove.jpg"
    },
    {
     "name": "FLED",
