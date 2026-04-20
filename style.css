@@ -4,14 +4,13 @@
   gap: 15px;
 }
 
-.game-card {
+.card {
   width: 100%;
   box-sizing: border-box;
 }
 
-.game-card img {
+.card img {
   width: 100%;
   height: auto;
   display: block;
-  object-fit: cover;
 }
