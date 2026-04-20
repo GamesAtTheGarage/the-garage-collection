@@ -210,6 +210,7 @@
    },
    {
     "name": "Brew Crafters",
+    "bggId": 139898,
     "playersMin": 2,
     "playersMax": 5,
     "duration": 90,
@@ -220,6 +221,7 @@
    },
    {
     "name": "Cactus town",
+    "bggId": 275463,
     "playersMin": 2,
     "playersMax": 4,
     "duration": 45,
@@ -230,6 +232,7 @@
    },
    {
     "name": "Cadaver",
+    "bggId": 186755,
     "playersMin": 2,
     "playersMax": 6,
     "duration": 25,
@@ -240,6 +243,7 @@
    },
    {
     "name": "Camel Cup",
+    "bggId": 153938,
     "playersMin": 2,
     "playersMax": 8,
     "duration": 45,
@@ -250,6 +254,7 @@
    },
    {
     "name": "Camel Cup Supercup",
+    "bggId": 172380,
     "playersMin": 2,
     "playersMax": 10,
     "duration": 45,
@@ -260,6 +265,7 @@
    },
    {
     "name": "Can't Stop",
+    "bggId": 41,
     "playersMin": 2,
     "playersMax": 4,
     "duration": 20,
