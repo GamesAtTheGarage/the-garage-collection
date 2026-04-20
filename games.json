@@ -386,6 +386,7 @@
    },
    {
     "name": "Citadels ( Machiavelli)",
+    "bggId": 478,
     "playersMin": 2,
     "playersMax": 8,
     "duration": 45,
@@ -396,6 +397,7 @@
    },
    {
     "name": "Citadels: The Dark City",
+    "bggId": 13291,
     "playersMin": 2,
     "playersMax": 8,
     "duration": 45,
@@ -406,6 +408,7 @@
    },
    {
     "name": "Cities",
+    "bggId": 402676,
     "playersMin": 2,
     "playersMax": 4,
     "duration": 35,
@@ -416,6 +419,7 @@
    },
    {
     "name": "Cockroach Poker (Kakkerlakken Poker)",
+    "bggId": 11971,
     "playersMin": 2,
     "playersMax": 6,
     "duration": 20,
@@ -426,6 +430,7 @@
    },
    {
     "name": "Coffee Rush",
+    "bggId": 377061,
     "playersMin": 2,
     "playersMax": 4,
     "duration": 45,
@@ -436,6 +441,7 @@
    },
    {
     "name": "Dawn of the Zeds 3rd edition",
+    "bggId": 175095,
     "playersMin": 1,
     "playersMax": 5,
     "duration": 90,
