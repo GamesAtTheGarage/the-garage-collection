@@ -276,6 +276,7 @@
    },
    {
     "name": "Carcassonne",
+    "bggId": 822,
     "playersMin": 2,
     "playersMax": 5,
     "duration": 30,
@@ -286,6 +287,7 @@
    },
    {
     "name": "Carcassonne: Mayflower",
+    "bggId": 34615,
     "playersMin": 2,
     "playersMax": 5,
     "duration": 45,
@@ -296,6 +298,7 @@
    },
    {
     "name": "Cartagena",
+    "bggId": 224031,
     "playersMin": 2,
     "playersMax": 5,
     "duration": 35,
@@ -306,6 +309,7 @@
    },
    {
     "name": "Castle Builder (Kasteel in de steigers)",
+    "bggId": 427887,
     "playersMin": 2,
     "playersMax": 4,
     "duration": 45,
@@ -316,6 +320,7 @@
    },
    {
     "name": "Castles of Burgundy Special Edition",
+    "bggId": 363622,
     "playersMin": 1,
     "playersMax": 4,
     "duration": 90,
@@ -326,6 +331,7 @@
    },
    {
     "name": "Catan card game",
+    "bggId": 278,
     "playersMin": 2,
     "playersMax": 2,
     "duration": 60,
@@ -336,6 +342,7 @@
    },
    {
     "name": "Catan card game: Barbaren en handelsheren",
+    "bggId": 12543,
     "playersMin": 2,
     "playersMax": 2,
     "duration": 60,
