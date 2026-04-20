@@ -1066,6 +1066,16 @@
     "image": "images/quicksanddangermode.jpg"
    },
    {
+    "name": "Qwirkle",
+    "playersMin": 2,
+    "playersMax": 5,
+    "duration": 45,
+    "difficulty": "Easy",
+    "category": "Tiles",
+    "rating": 5,
+    "image": "images/qwirkle.jpg"
+   },
+   {
     "name": "Revolver",
     "playersMin": 2,
     "playersMax": 2,
