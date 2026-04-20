@@ -793,6 +793,7 @@
    },
    {
     "name": "Golem",
+    "bggId": 298383,
     "playersMin": 1,
     "playersMax": 4,
     "duration": 120,
@@ -803,6 +804,7 @@
    },
    {
     "name": "Heat: Pedal to the Metal",
+    "bggId": 366013,
     "playersMin": 1,
     "playersMax": 6,
     "duration": 60,
@@ -813,6 +815,7 @@
    },
    {
     "name": "Heat: Heavy Rain",
+    "bggId": 410291,
     "playersMin": 1,
     "playersMax": 8,
     "duration": 90,
@@ -823,6 +826,7 @@
    },
    {
     "name": "Heat: Tunnel Vision",
+    "bggId": 436904,
     "playersMin": 1,
     "playersMax": 8,
     "duration": 90,
@@ -833,6 +837,7 @@
    },
    {
     "name": "Hister Bingo",
+    "bggId": 424280,
     "playersMin": 1,
     "playersMax": 10,
     "duration": 60,
@@ -843,6 +848,7 @@
    },
    {
     "name": "Hitster Rock",
+    "bggId": 431308,
     "playersMin": 1,
     "playersMax": 10,
     "duration": 60,
@@ -852,7 +858,8 @@
     "image": "images/hitsterrock.jpg"
    },
    {
-    "name": "Hitstermovies",
+    "name": "Hitster movies",
+    "bggId": 433541,
     "playersMin": 1,
     "playersMax": 10,
     "duration": 60,
@@ -863,6 +870,7 @@
    },
    {
     "name": "Hive",
+    "bggId": 2655,
     "playersMin": 2,
     "playersMax": 2,
     "duration": 25,
@@ -873,6 +881,7 @@
    },
    {
     "name": "Horrified",
+    "bggId": 282524,
     "playersMin": 1,
     "playersMax": 5,
     "duration": 50,
@@ -883,6 +892,7 @@
    },
    {
     "name": "Hot Streak",
+    "bggId": 446497,
     "playersMin": 2,
     "playersMax": 8,
     "duration": 25,
@@ -893,6 +903,7 @@
    },
    {
     "name": "Knarr",
+    "bggId": 379629,
     "playersMin": 1,
     "playersMax": 4,
     "duration": 25,
@@ -903,6 +914,7 @@
    },
   {
     "name": "Labyrinth 3D",
+    "bggId": 1219,
     "playersMin": 2,
     "playersMax": 4,
     "duration": 50,
