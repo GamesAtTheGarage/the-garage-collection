@@ -23,6 +23,7 @@
   },
   {
     "name": "7 Wonders Duel",
+    "bggId": 173346,
     "playersMin": 2,
     "playersMax": 2,
     "duration": 15,
@@ -33,6 +34,7 @@
   },
   {
     "name": "7 Wonders: Architects",
+    "bggId": 346703,
     "playersMin": 2,
     "playersMax": 7,
     "duration": 30,
@@ -43,6 +45,7 @@
   },
   {
     "name": "7 Wonders: Architects Medals",
+    "bggId": 403217,
     "playersMin": 2,
     "playersMax": 7,
     "duration": 30,
@@ -53,6 +56,7 @@
    },
    {
     "name": "Artisjokken",
+     "bggId": 302260,
     "playersMin": 2,
     "playersMax": 4,
     "duration": 20,
