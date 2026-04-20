@@ -452,6 +452,7 @@
    },
    {
     "name": "Dead of winter: The Long Night",
+    "bggId": 193037,
     "playersMin": 2,
     "playersMax": 5,
     "duration": 90,
@@ -462,6 +463,7 @@
    },
    {
     "name": "Dead Panic",
+    "bggId": 133437,
     "playersMin": 2,
     "playersMax": 5,
     "duration": 90,
@@ -472,6 +474,7 @@
    },
    {
     "name": "Dominion",
+    "bggId": 36218,
     "playersMin": 2,
     "playersMax": 4,
     "duration": 30,
@@ -482,6 +485,7 @@
    },
    {
     "name": "Echoes of Emperors",
+    "bggId": 413251,
     "playersMin": 2,
     "playersMax": 4,
     "duration": 60,
@@ -492,6 +496,7 @@
    },
    {
     "name": "Echoes of Emperors: Warmaps",
+    "bggId": 453902,
     "playersMin": 2,
     "playersMax": 4,
     "duration": 60,
@@ -502,6 +507,7 @@
    },
    {
     "name": "Era: Medieval Age",
+    "bggId": 270971,
     "playersMin": 1,
     "playersMax": 4,
     "duration": 50,
@@ -511,7 +517,8 @@
     "image": "images/eramedievalage.jpg"
    },
    {
-    "name": "Era Medieval Age rivers and roads",
+    "name": "Era: Medieval Age rivers and roads",
+    "bggId": 299712,
     "playersMin": 1,
     "playersMax": 4,
     "duration": 50,
@@ -519,6 +526,17 @@
     "category": "Expansion",
     "rating": 4,
     "image": "images/erariverroads.jpg"
+   },
+   {
+    "name": "Era: Medieval Age Collector Set 1",
+    "bggId": 282887,
+    "playersMin": 1,
+    "playersMax": 4,
+    "duration": 50,
+    "difficulty": "medium",
+    "category": "Expansion",
+    "rating": 4,
+    "image": "images/eracollector1.jpg"
    },
    {
     "name": "Everdell: Farshore",
