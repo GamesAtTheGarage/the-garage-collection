@@ -540,6 +540,7 @@
    },
    {
     "name": "Everdell: Farshore",
+    "bggId": 394106,
     "playersMin": 1,
     "playersMax": 4,
     "duration": 75,
@@ -550,6 +551,7 @@
    },
    {
     "name": "Everything Lost",
+    "bggId": 315291,
     "playersMin": 1,
     "playersMax": 1,
     "duration": 75,
@@ -560,6 +562,7 @@
    },
    {
     "name": "Exploding KIttens NSFW",
+    "bggId": 172242,
     "playersMin": 2,
     "playersMax": 5,
     "duration": 15,
@@ -570,6 +573,7 @@
    },
    {
     "name": "Fallout Shelter",
+    "bggId": 293889,
     "playersMin": 2,
     "playersMax": 4,
     "duration": 60,
@@ -580,6 +584,7 @@
    },
    {
     "name": "Fallout Wasteland Warfare",
+    "bggId": 226176,
     "playersMin": 2,
     "playersMax": 8,
     "duration": 120,
@@ -590,6 +595,7 @@
    },
    {
     "name": "Faraway",
+    "bggId": 385761,
     "playersMin": 2,
     "playersMax": 6,
     "duration": 30,
@@ -600,6 +606,7 @@
    },
    {
     "name": "Faraway: People from Below",
+    "bggId": 425029,
     "playersMin": 2,
     "playersMax": 6,
     "duration": 30,
@@ -610,6 +617,7 @@
    },
    {
     "name": "Final Girl Core Box",
+    "bggId": 277659,
     "playersMin": 1,
     "playersMax": 1,
     "duration": 90,
