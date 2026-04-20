@@ -133,6 +133,7 @@
    },
   {
     "name": "Big Sur",
+    "bggId": 414174,
     "playersMin": 2,
     "playersMax": 4,
     "duration": 30,
@@ -143,6 +144,7 @@
    },
    {
     "name": "Blasting Billy",
+    "bggId": 362150,
     "playersMin": 2,
     "playersMax": 5,
     "duration": 20,
@@ -153,6 +155,7 @@
    },
    {
     "name": "Boop the halls!",
+    "bggId": 417696,
     "playersMin": 2,
     "playersMax": 2,
     "duration": 20,
@@ -163,6 +166,7 @@
    },
    {
     "name": "Boonanza",
+    "bggId": 11,
     "playersMin": 2,
     "playersMax": 7,
     "duration": 45,
@@ -173,6 +177,7 @@
    },
    {
     "name": "La Isla Boonita",
+    "bggId": 453,
     "playersMin": 2,
     "playersMax": 7,
     "duration": 75,
@@ -183,6 +188,7 @@
    },
    {
     "name": "Bravo / Keer op Keer 2",
+    "bggId": 285894,
     "playersMin": 1,
     "playersMax": 6,
     "duration": 40,
