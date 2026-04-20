@@ -1160,6 +1160,16 @@
     "image": "images/saboteurdonkeregrot.jpg"
    },
    {
+    "name": "Sagrada Refresh",
+    "playersMin": 1,
+    "playersMax": 4,
+    "duration": 25,
+    "difficulty": "easy",
+    "category": "Dice",
+    "rating": 4,
+    "image": "images/sagradarefresh.jpg"
+   },
+   {
     "name": "Sierra West",
     "playersMin": 1,
     "playersMax": 4,
