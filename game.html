@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <title>Game Detail</title>
+</head>
+<body>
+
+<h1 id="title"></h1>
+<img id="image" width="200">
+
+<p id="info"></p>
+
+<a id="bggLink" target="_blank">🔎 Bekijk op BGG</a>
+
+<script>
+const params = new URLSearchParams(window.location.search);
+const gameId = params.get("id");
+
+fetch("games.json")
+  .then(res => res.json())
+  .then(data => {
+    const game = data.find(g => g.name === gameId);
+
+    document.getElementById("title").innerText = game.name;
+    document.getElementById("image").src = game.image;
+    document.getElementById("info").innerText =
+      `${game.playersMin}-${game.playersMax} spelers | ${game.duration} min`;
+
+    let bggLink;
+
+    if (game.bggId) {
+      bggLink = `https://boardgamegeek.com/boardgame/${game.bggId}`;
+    } else {
+      bggLink = `https://boardgamegeek.com/geeksearch.php?action=search&objecttype=boardgame&q=${encodeURIComponent(game.name)}`;
+    }
+
+    document.getElementById("bggLink").href = bggLink;
+  });
+</script>
+
+</body>
+</html>
