@@ -3,15 +3,119 @@
 <head>
   <meta charset="UTF-8">
   <title>Game Detail</title>
+
+  <style>
+    body {
+      background: #121212;
+      color: #f2f2f2;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+
+    .game-container {
+      max-width: 600px;
+      margin: auto;
+      padding: 20px;
+    }
+
+    .back-button {
+      display: inline-block;
+      margin-bottom: 10px;
+      color: #f2f2f2;
+      text-decoration: none;
+      font-size: 14px;
+      opacity: 0.8;
+    }
+
+    .back-button:hover {
+      opacity: 1;
+    }
+
+    .game-header {
+      text-align: center;
+      margin-top: 10px;
+    }
+
+    .game-header h1 {
+      margin: 0;
+      font-size: 28px;
+    }
+
+    .game-header p {
+      margin: 5px 0;
+      color: #aaa;
+    }
+
+    .game-image {
+      width: 100%;
+      border-radius: 12px;
+      margin: 15px 0;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    }
+
+    .info-cards {
+      display: flex;
+      gap: 10px;
+      justify-content: center;
+      margin: 15px 0;
+      flex-wrap: wrap;
+    }
+
+    .card {
+      background: #1e1e1e;
+      padding: 10px 15px;
+      border-radius: 10px;
+      font-size: 14px;
+    }
+
+    .bgg-button {
+      display: block;
+      text-align: center;
+      background: #ffb347;
+      color: #000;
+      padding: 12px;
+      border-radius: 10px;
+      text-decoration: none;
+      font-weight: bold;
+      margin-top: 20px;
+      transition: 0.2s;
+    }
+
+    .bgg-button:hover {
+      transform: scale(1.02);
+    }
+  </style>
 </head>
+
 <body>
 
-<h1 id="title"></h1>
-<img id="image" width="200">
+<div class="game-container">
 
-<p id="info"></p>
+  <!-- Back knop -->
+  <a href="javascript:history.back()" class="back-button">← Terug</a>
 
-<a id="bggLink" target="_blank">🔎 Bekijk op BGG</a>
+  <!-- Header -->
+  <div class="game-header">
+    <h1 id="title"></h1>
+    <p id="year"></p>
+  </div>
+
+  <!-- Image -->
+  <img id="image" class="game-image">
+
+  <!-- Info cards -->
+  <div class="info-cards">
+    <div class="card" id="players"></div>
+    <div class="card" id="duration"></div>
+  </div>
+
+  <!-- BGG knop -->
+  <a id="bggLink" class="bgg-button" target="_blank">
+    🔗 Bekijk op BoardGameGeek
+  </a>
+
+</div>
 
 <script>
 const params = new URLSearchParams(window.location.search);
@@ -24,8 +128,17 @@ fetch("games.json")
 
     document.getElementById("title").innerText = game.name;
     document.getElementById("image").src = game.image;
-    document.getElementById("info").innerText =
-      `${game.playersMin}-${game.playersMax} spelers | ${game.duration} min`;
+
+    // optional year (als je die hebt)
+    if (game.year) {
+      document.getElementById("year").innerText = game.year;
+    }
+
+    document.getElementById("players").innerText =
+      `👥 ${game.playersMin}-${game.playersMax} spelers`;
+
+    document.getElementById("duration").innerText =
+      `⏱ ${game.duration} min`;
 
     let bggLink;
 
