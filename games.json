@@ -11,6 +11,17 @@
     "image": "images/20strong.jpg"
   },
   {
+    "name": "20 Strong : Too Many Bones",
+    "bggId": 7858265,
+    "playersMin": 1,
+    "playersMax": 1,
+    "duration": 30,
+    "difficulty": "Medium",
+    "category": "Solo",
+    "rating": 4,
+    "image": "images/20strongtoomanybones.jpg"
+  },
+  {
     "name": "7 Wonders Dice",
     "bggId": 446231,
     "playersMin": 2,
