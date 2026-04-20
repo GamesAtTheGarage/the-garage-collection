@@ -118,6 +118,9 @@ function renderGames(filteredGames) {
     `;
     grid.appendChild(card);
   });
+  }
+  function openGame(name) {
+  window.location.href = `game.html?id=${encodeURIComponent(name)}`;
 }
 
 function filterGames() {
