@@ -957,6 +957,17 @@
     "image": "images/lotrduel.jpg"
    },
    {
+    "name": "Lord of the rings: Duel for middle earth- Alies",
+    "bggId": 450429,
+    "playersMin": 2,
+    "playersMax": 2,
+    "duration": 30,
+    "difficulty": "easy",
+    "category": "Expansion",
+    "rating": 4,
+    "image": "images/lotrduelalies.jpg"
+   },
+   {
     "name": "Love Letter",
     "bggId": 129622,
     "playersMin": 2,
