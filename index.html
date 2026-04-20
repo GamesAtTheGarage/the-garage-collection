@@ -107,15 +107,17 @@ function renderGames(filteredGames) {
   filteredGames.forEach(game => {
     const card = document.createElement("div");
     card.className = "card";
-    card.innerHTML = `
-      <img src="${game.image}" onclick="openGame('${game.name}')">
-      <h3>${game.name}</h3>
-      <div class="small">👥 ${game.playersMin}-${game.playersMax} spelers</div>
-      <div class="small">⏱ ${game.duration} min</div>
-      <div class="small">🎯 ${game.difficulty}</div>
-      <div class="small">🏷 ${game.category}</div>
-      <div class="stars">${"★".repeat(game.rating)}${"☆".repeat(5-game.rating)}</div>
-    `;
+   card.innerHTML = `
+  <div class="img-wrapper">
+    <img src="${game.image}" onclick="openGame('${game.name}')">
+  </div>
+  <h3>${game.name}</h3>
+  <div class="small">👥 ${game.playersMin}-${game.playersMax} spelers</div>
+  <div class="small">⏱ ${game.duration} min</div>
+  <div class="small">🎯 ${game.difficulty}</div>
+  <div class="small">🏷 ${game.category}</div>
+  <div class="stars">${"★".repeat(game.rating)}${"☆".repeat(5-game.rating)}</div>
+`;
     grid.appendChild(card);
   });
   }
