@@ -1002,6 +1002,7 @@
    },
    {
     "name": "Magical Athlete",
+    "bggId": 454103,
     "playersMin": 2,
     "playersMax": 6,
     "duration": 30,
@@ -1012,6 +1013,7 @@
    },
    {
     "name": "Mansions of Madness 2nd edition",
+    "bggId": 205059,
     "playersMin": 1,
     "playersMax": 5,
     "duration": 120,
@@ -1022,6 +1024,7 @@
    },
    {
     "name": "Micro Moonshine",
+    "bggId": 411399,
     "playersMin": 1,
     "playersMax": 4,
     "duration": 60,
@@ -1032,6 +1035,7 @@
    },
    {
     "name": "The Mind",
+    "bggId": 244992,
     "playersMin": 1,
     "playersMax": 4,
     "duration": 20,
@@ -1042,6 +1046,7 @@
    },
    {
     "name": "Moto Grand Prix",
+    "bggId": 35438,
     "playersMin": 2,
     "playersMax": 6,
     "duration": 60,
@@ -1052,6 +1057,7 @@
    },
    {
     "name": "Munchkin Deluxe",
+    "bggId": 1927,
     "playersMin": 3,
     "playersMax": 6,
     "duration": 75,
@@ -1062,6 +1068,7 @@
    },
    {
     "name": "Nemesis",
+    "bggId": 167355,
     "playersMin": 1,
     "playersMax": 5,
     "duration": 120,
@@ -1072,6 +1079,7 @@
    },
    {
     "name": "Nemesis Aftermath",
+    "bggId": 318351,
     "playersMin": 1,
     "playersMax": 5,
     "duration": 60,
@@ -1082,6 +1090,7 @@
    },
    {
     "name": "Orlog",
+    "bggId": 342479,
     "playersMin": 1,
     "playersMax": 2,
     "duration": 20,
@@ -1092,6 +1101,7 @@
    },
    {
     "name": "Outlaws: Last Man Standing",
+    "bggId": 204504,
     "playersMin": 1,
     "playersMax": 4,
     "duration": 30,
@@ -1102,6 +1112,7 @@
    },
    {
     "name": "Pandemic",
+    "bggId": 30549,
     "playersMin": 2,
     "playersMax": 4,
     "duration": 45,
@@ -1112,6 +1123,7 @@
    },
    {
     "name": "Parks",
+    "bggId": 266524,
     "playersMin": 1,
     "playersMax": 5,
     "duration": 50,
@@ -1122,6 +1134,7 @@
    },
    {
     "name": "Parks: Nightfall",
+    "bggId": 298729,
     "playersMin": 1,
     "playersMax": 5,
     "duration": 45,
@@ -1132,6 +1145,7 @@
    },
    {
     "name": "Parks: Wildlife",
+    "bggId": 358854,
     "playersMin": 1,
     "playersMax": 5,
     "duration": 45,
