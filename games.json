@@ -705,6 +705,7 @@
    },
    {
     "name": "FLED",
+    "bggId": 382444,
     "playersMin": 1,
     "playersMax": 4,
     "duration": 60,
@@ -715,6 +716,7 @@
    },
    {
     "name": "FLED: The Spectre",
+    "bggId": 438067,
     "playersMin": 1,
     "playersMax": 4,
     "duration": 60,
@@ -725,6 +727,7 @@
    },
    {
     "name": "Flip 7",
+    "bggId": 420087,
     "playersMin": 3,
     "playersMax": 18,
     "duration": 60,
@@ -735,6 +738,7 @@
    },
    {
     "name": "Flip 7 With A Vengeance",
+    "bggId": 463441,
     "playersMin": 3,
     "playersMax": 18,
     "duration": 60,
@@ -745,6 +749,7 @@
    },
    {
     "name": "Fliptown",
+    "bggId": 352418,
     "playersMin": 1,
     "playersMax": 4,
     "duration": 45,
@@ -755,6 +760,7 @@
    },
    {
     "name": "Forbidden Desert ( De Vergeten Stad)",
+    "bggId": 136063,
     "playersMin": 2,
     "playersMax": 5,
     "duration": 30,
@@ -765,6 +771,7 @@
    },
    {
     "name": "The Fox Experiment",
+    "bggId": 368432,
     "playersMin": 1,
     "playersMax": 4,
     "duration": 60,
@@ -775,6 +782,7 @@
    },
    {
     "name": "Gloomhaven: Buttons and Bugs",
+    "bggId": 393672,
     "playersMin": 1,
     "playersMax": 1,
     "duration": 60,
