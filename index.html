@@ -108,7 +108,7 @@ function renderGames(filteredGames) {
     const card = document.createElement("div");
     card.className = "card";
     card.innerHTML = `
-      <img src="${game.image}" alt="${game.name}">
+      <img src="${game.image}" onclick="openGame('${game.name}')">
       <h3>${game.name}</h3>
       <div class="small">👥 ${game.playersMin}-${game.playersMax} spelers</div>
       <div class="small">⏱ ${game.duration} min</div>
