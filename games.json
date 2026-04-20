@@ -353,6 +353,7 @@
    },
    {
     "name": "Cats vs Cucumbers",
+    "bggId": 437875,
     "playersMin": 2,
     "playersMax": 5,
     "duration": 30,
@@ -363,6 +364,7 @@
    },
    {
     "name": "Chaos Arena",
+    "bggId": 20117,
     "playersMin": 2,
     "playersMax": 2,
     "duration": 30,
@@ -373,6 +375,7 @@
    },
    {
     "name": "Chili Dice",
+    "bggId": 297569,
     "playersMin": 1,
     "playersMax": 4,
     "duration": 30,
