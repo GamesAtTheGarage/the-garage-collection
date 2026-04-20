@@ -690,6 +690,16 @@
     "image": "images/thefoxexperiment.jpg"
    },
    {
+    "name": "Gloomhaven: Buttons and Bugs",
+    "playersMin": 1,
+    "playersMax": 1,
+    "duration": 60,
+    "difficulty": "medium",
+    "category": "Solo",
+    "rating": 4,
+    "image": "images/buttonsandbugs.jpg"
+   },
+   {
     "name": "Golem",
     "playersMin": 1,
     "playersMax": 4,
