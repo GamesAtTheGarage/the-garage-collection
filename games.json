@@ -1,5 +1,15 @@
 [
   {
+    "name": "20 Strong",
+    "playersMin": 1,
+    "playersMax": 1,
+    "duration": 45,
+    "difficulty": "Medium",
+    "category": "Solo",
+    "rating": 5,
+    "image": "images/20strong.jpg"
+  },
+  {
     "name": "7 Wonders Dice",
     "playersMin": 2,
     "playersMax": 7,
