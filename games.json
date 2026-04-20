@@ -982,12 +982,23 @@
     "name": "Lying Pirates",
     "bggId": 345967,
     "playersMin": 2,
-    "playersMax": 6,
+    "playersMax": 8,
     "duration": 60,
     "difficulty": "easy",
     "category": "Dice",
     "rating": 4,
     "image": "images/lyingpirates.jpg"
+   },
+   {
+    "name": "Lying Pirates - Cities of Greed",
+    "bggId": 436592,
+    "playersMin": 2,
+    "playersMax": 8,
+    "duration": 60,
+    "difficulty": "easy",
+    "category": "Expansion",
+    "rating": 4,
+    "image": "images/lyingpiratescitiesofgreed.jpg"
    },
    {
     "name": "Magical Athlete",
