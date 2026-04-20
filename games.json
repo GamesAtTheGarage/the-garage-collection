@@ -925,6 +925,7 @@
    },
    {
     "name": "Longhorn",
+    "bggId": 148290,
     "playersMin": 2,
     "playersMax": 2,
     "duration": 15,
@@ -935,6 +936,7 @@
    },
    {
     "name": "Looot",
+    "bggId": 410991,
     "playersMin": 2,
     "playersMax": 4,
     "duration": 30,
@@ -945,6 +947,7 @@
    },
    {
     "name": "Lord of the rings: Duel for middle earth",
+    "bggId": 421006,
     "playersMin": 2,
     "playersMax": 2,
     "duration": 30,
@@ -955,6 +958,7 @@
    },
    {
     "name": "Love Letter",
+    "bggId": 129622,
     "playersMin": 2,
     "playersMax": 4,
     "duration": 20,
@@ -965,6 +969,7 @@
    },
    {
     "name": "Lying Pirates",
+    "bggId": 345967,
     "playersMin": 2,
     "playersMax": 6,
     "duration": 60,
