@@ -628,6 +628,7 @@
    },
    {
     "name": "Final Girl: S1 Carnage At The Carnival",
+    "bggId": 307686,
     "playersMin": 1,
     "playersMax": 1,
     "duration": 90,
@@ -638,6 +639,7 @@
    },
    {
     "name": "Final Girl: S1 Frightmare On Maple Lane",
+    "bggId": 310175,
     "playersMin": 1,
     "playersMax": 1,
     "duration": 90,
@@ -648,6 +650,7 @@
    },
    {
     "name": "Final Girl: S1 Slaughter In The Groves",
+    "bggId": 307687,
     "playersMin": 1,
     "playersMax": 1,
     "duration": 90,
@@ -658,6 +661,7 @@
    },
    {
     "name": "Final Girl: S1 The Happy Trails Horror",
+    "bggId": 307683,
     "playersMin": 1,
     "playersMax": 1,
     "duration": 90,
@@ -668,6 +672,7 @@
    },
   {
     "name": "Final Girl: S1 The haunting of Creech Manor",
+    "bggId": 307684,
     "playersMin": 1,
     "playersMax": 1,
     "duration": 90,
@@ -678,6 +683,7 @@
    },
    {
     "name": "Final Girl: S1 Terror From Above",
+    "bggId": 310177,
     "playersMin": 1,
     "playersMax": 1,
     "duration": 90,
@@ -688,6 +694,7 @@
    },
    {
     "name": "Final Girl: S1 The North Pole Nightmare",
+    "bggId": 401763,
     "playersMin": 1,
     "playersMax": 1,
     "duration": 90,
