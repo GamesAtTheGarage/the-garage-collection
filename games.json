@@ -12,6 +12,7 @@
   },
   {
     "name": "7 Wonders Dice",
+    "bggId": 446231,
     "playersMin": 2,
     "playersMax": 7,
     "duration": 30,
