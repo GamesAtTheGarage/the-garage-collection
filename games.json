@@ -1321,6 +1321,7 @@
    },
    {
     "name": "Saboteur 2",
+    "bggId": 91072,
     "playersMin": 2,
     "playersMax": 12,
     "duration": 45,
@@ -1331,6 +1332,7 @@
    },
    {
     "name": "Saboteur Duel",
+    "bggId": 168215,
     "playersMin": 1,
     "playersMax": 2,
     "duration": 25,
@@ -1341,6 +1343,7 @@
    },
    {
     "name": "Saboteur De Donkere Grot",
+    "bggId": 365702,
     "playersMin": 2,
     "playersMax": 8,
     "duration": 45,
@@ -1351,6 +1354,7 @@
    },
    {
     "name": "Sagrada Refresh",
+    "bggId": 199561,
     "playersMin": 1,
     "playersMax": 4,
     "duration": 25,
@@ -1361,6 +1365,7 @@
    },
    {
     "name": "Sierra West",
+    "bggId": 257066,
     "playersMin": 1,
     "playersMax": 4,
     "duration": 50,
@@ -1371,6 +1376,7 @@
    },
    {
     "name": "Sky Team",
+    "bggId": 373106,
     "playersMin": 2,
     "playersMax": 2,
     "duration": 20,
