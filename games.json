@@ -1156,6 +1156,7 @@
    },
    {
     "name": "Pina Coladice",
+    "bggId": 415054,
     "playersMin": 2,
     "playersMax": 4,
     "duration": 15,
@@ -1166,6 +1167,7 @@
    },
    {
     "name": "Piraten Kapern (1000 bommen)",
+    "bggId": 117663,
     "playersMin": 2,
     "playersMax": 5,
     "duration": 30,
@@ -1176,6 +1178,7 @@
    },
    {
     "name": "Point City",
+    "bggId": 368017,
     "playersMin": 1,
     "playersMax": 4,
     "duration": 20,
