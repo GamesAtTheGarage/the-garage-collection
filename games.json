@@ -1189,6 +1189,7 @@
    },
    {
     "name": "Quicksand",
+    "bggId": 396655,
     "playersMin": 1,
     "playersMax": 7,
     "duration": 15,
@@ -1199,6 +1200,7 @@
    },
    {
     "name": "Quicksand Danger Mode",
+    "bggId": 400946,
     "playersMin": 1,
     "playersMax": 7,
     "duration": 15,
@@ -1209,6 +1211,7 @@
    },
    {
     "name": "Qwirkle",
+    "bggId": 25669,
     "playersMin": 2,
     "playersMax": 5,
     "duration": 45,
@@ -1219,6 +1222,7 @@
    },
    {
     "name": "Revolver",
+    "bggId": 76150,
     "playersMin": 2,
     "playersMax": 2,
     "duration": 45,
@@ -1229,6 +1233,7 @@
    },
    {
     "name": "Revolver 2",
+    "bggId": 128733,
     "playersMin": 2,
     "playersMax": 2,
     "duration": 45,
