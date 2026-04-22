@@ -1244,6 +1244,7 @@
    },
    {
     "name": "Reworld",
+    "bggId": 225163,
     "playersMin": 2,
     "playersMax": 4,
     "duration": 60,
@@ -1254,6 +1255,7 @@
    },
    {
     "name": "Risk",
+    "bggId": 181,
     "playersMin": 2,
     "playersMax": 5,
     "duration": 60,
@@ -1264,6 +1266,7 @@
    },
    {
     "name": "River Valley Glassworks",
+    "bggId": 407297,
     "playersMin": 1,
     "playersMax": 5,
     "duration": 45,
@@ -1274,6 +1277,7 @@
    },
    {
     "name": "Road Rally USA",
+    "bggId": 136954,
     "playersMin": 3,
     "playersMax": 5,
     "duration": 50,
@@ -1284,6 +1288,7 @@
    },
    {
     "name": "Robo Rally",
+    "bggId": 18,
     "playersMin": 2,
     "playersMax": 4,
     "duration": 45,
@@ -1294,6 +1299,7 @@
    },
    {
     "name": "Rummikub",
+    "bggId": 811,
     "playersMin": 2,
     "playersMax": 4,
     "duration": 50,
@@ -1304,6 +1310,7 @@
    },
    {
     "name": "Saboteur",
+    "bggId": 9220,
     "playersMin": 3,
     "playersMax": 10,
     "duration": 30,
