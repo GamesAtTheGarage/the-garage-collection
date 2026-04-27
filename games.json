@@ -1464,6 +1464,7 @@
   },
   {
     "name": "Ticket to ride (USA)",
+    "bggId": 9209,
     "playersMin": 2,
     "playersMax": 5,
     "duration": 45,
@@ -1474,6 +1475,7 @@
   },
   {
     "name": "Ticket to ride USA 1910",
+    "bggId": 24439,
     "playersMin": 2,
     "playersMax": 4,
     "duration": 50,
@@ -1484,6 +1486,7 @@
   },
   {
     "name": "Ticket to ride Amsterdam",
+    "bggId": 309113,
     "playersMin": 2,
     "playersMax": 4,
     "duration": 15,
@@ -1494,6 +1497,7 @@
   },
   {
     "name": "Trailblazer: The Arizona Trail",
+    "bggId": 372967,
     "playersMin": 1,
     "playersMax": 4,
     "duration": 120,
@@ -1504,6 +1508,7 @@
   },
   {
     "name": "Trekking through history",
+    "bggId": 353288,
     "playersMin": 1,
     "playersMax": 4,
     "duration": 45,
@@ -1514,6 +1519,7 @@
   },
   {
     "name": "Tsuro",
+    "bggId": 16992,
     "playersMin": 2,
     "playersMax": 8,
     "duration": 20,
@@ -1524,6 +1530,7 @@
   },
   {
     "name": "U-Boot",
+    "bggId": 219100,
     "playersMin": 1,
     "playersMax": 4,
     "duration": 90,
