@@ -1541,6 +1541,7 @@
   },
   {
     "name": "Wandering Towers",
+    "bggId": 355483,
     "playersMin": 2,
     "playersMax": 8,
     "duration": 20,
@@ -1551,6 +1552,7 @@
   },
   {
     "name": "War of the roses (Rozenoorlog)",
+    "bggId": 58936,
     "playersMin": 2,
     "playersMax": 4,
     "duration": 120,
@@ -1561,6 +1563,7 @@
   },
   {
     "name": "Western Legends",
+    "bggId": 232405,
     "playersMin": 2,
     "playersMax": 6,
     "duration": 90,
@@ -1571,6 +1574,7 @@
   },
   {
     "name": "Western Legends: Ante Up ",
+    "bggId": 267545,
     "playersMin": 2,
     "playersMax": 6,
     "duration": 120,
@@ -1581,6 +1585,7 @@
   },
   {
     "name": "World without end (Brug naar de hemel)",
+    "bggId": 43528,
     "playersMin": 2,
     "playersMax": 4,
     "duration": 90,
@@ -1591,6 +1596,7 @@
   },
   {
     "name": "Zombicide",
+    "bggId": 113924,
     "playersMin": 1,
     "playersMax": 6,
     "duration": 120,
@@ -1601,6 +1607,7 @@
   },
   {
     "name": "Zombicide: ANgry Neighbors",
+    "bggId": 161920,
     "playersMin": 1,
     "playersMax": 12,
     "duration": 90,
@@ -1611,6 +1618,7 @@
   },
   {
     "name": "Zombie Dice",
+    "bggId": 62871,
     "playersMin": 2,
     "playersMax": 20,
     "duration": 15,
