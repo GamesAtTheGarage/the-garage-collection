@@ -1387,6 +1387,7 @@
    },
    {
     "name": "Sky Team: Turbulence",
+    "bggId": 423177,
     "playersMin": 2,
     "playersMax": 2,
     "duration": 20,
@@ -1397,6 +1398,7 @@
    },
    {
     "name": "Skyjo",
+    "bggId": 204135,
     "playersMin": 2,
     "playersMax": 8,
     "duration": 30,
@@ -1407,6 +1409,7 @@
    },
    {
     "name": "Sleeping Gods: Primeval Peril",
+    "bggId": 362205,
     "playersMin": 1,
     "playersMax": 4,
     "duration": 120,
@@ -1417,6 +1420,7 @@
    },
    {
     "name": "Sounds Fishy",
+    "bggId": 359893,
     "playersMin": 3,
     "playersMax": 10,
     "duration": 30,
@@ -1426,7 +1430,8 @@
     "image": "images/soundsfishy.jpg"
    },
    {
-    "name": "Sutter's Mill",
+    "name": "Sutters Mill",
+    "bggId": 37739,
     "playersMin": 2,
     "playersMax": 4,
     "duration": 60,
@@ -1437,6 +1442,7 @@
   },
   {
     "name": "De taveernen van de oude stad",
+    "bggId": 269207,
     "playersMin": 2,
     "playersMax": 4,
     "duration": 60,
@@ -1447,6 +1453,7 @@
   },
   {
     "name": "Thunder Alley",
+    "bggId": 108906,
     "playersMin": 2,
     "playersMax": 7,
     "duration": 90,
