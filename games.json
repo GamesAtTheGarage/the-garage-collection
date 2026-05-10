@@ -561,6 +561,17 @@
     "image": "images/everythinglost.jpg"
    },
    {
+    "name": "Excalibur",
+    "bggId": 434172,
+    "playersMin": 2,
+    "playersMax": 8,
+    "duration": 25,
+    "difficulty": "easy",
+    "category": "Party Game",
+    "rating": 4,
+    "image": "images/excalibur.jpg"
+   },
+   {
     "name": "Exploding KIttens NSFW",
     "bggId": 172242,
     "playersMin": 2,
