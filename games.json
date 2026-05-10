@@ -814,6 +814,17 @@
     "image": "images/golem.jpg"
    },
    {
+    "name": "Great Western Trail 1st edition",
+    "bggId": 193738,
+    "playersMin": 2,
+    "playersMax": 4,
+    "duration": 120,
+    "difficulty": "hard",
+    "category": "Worker placement",
+    "rating": 4,
+    "image": "images/gwt.jpg"
+   },
+   {
     "name": "Heat: Pedal to the Metal",
     "bggId": 366013,
     "playersMin": 1,
